@@ -1,0 +1,142 @@
+{
+  "filename": "Kids_Stuff",
+  "stories": [
+    {
+      "_id": 1,
+      "title": "Bouncing Baby Boy",
+      "story": "A baby fell out of a twenty-story building onto the ground and live?",
+      "solution": "The baby fell out of a ground floor window.",
+
+      "de_title": "Hartgesotten",
+      "de_story": "Ein Baby fällt aus einem 20-stöckigem Gebäude und überlebt. Wie ist das möglich?",
+      "de_solution": "Das Baby fiel aus dem Fenster des Erdgeschosses.",
+
+      "picture": "http://carc.me/blackbooks/img/baby.jpg",
+      "imagesource": "Drew Hays - https://www.instagram.com/drew_hays",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 2,
+      "title": "Sunday drive",
+      "story": "A man drives down the highway at 55 miles per hour. He passes three cars going 60 miles per hour, then gets pulled over by a police officer and is given a ticket.",
+     "solution": "The man was driving the wrong way on a one way street.",
+      
+      "de_title": "Sonntagsfahrer",
+      "de_story": "Ein Mann fährt mit 55 Stundenkilometern über die Straße. Er fährt an drei Autos vorbei, die allesamt 60 Stundenkilometer fahren. Schließlich hält ihn die Polizei an und gibt ihm einen Strafzettel.",
+      "de_solution": "Der Mann fährt falsch herum in einer zweispurigen Einbahnstraße.",
+
+      "picture": "http://carc.me/blackbooks/img/car_no_driver.jpg",
+      "imagesource": "Zed Kolk - https://unsplash.com/@zedkolk",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 3,
+      "title": "Expected outcome",
+      "story": "As the man approached the middle of the field, he knew he was going to be OK. Why?",
+      "solution": "He was skydiving and approaching the field from above. His parachute has opened he's on target for the landing field.",
+
+      "de_title": "Kalkuliertes Risiko",
+      "de_story": "Als der Mann sich der Mitte des Feldes näherte, wusste er, dass er OK sein würde. Warum?",
+      "de_solution": "Der Mann ist ein Fallschirmspringer, der sich von oben dem Feld nähert und dessen Schirm sich geöffnet hat. Er weiß, dass er dort landen wird, wo es sicher ist.",
+
+      "picture": "http://carc.me/blackbooks/img/clover.jpg",
+      "imagesource": "Irene Dávila - https://unsplash.com/@irenedavila",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 4,
+      "title": "Sticks and stones",
+      "story": "A pile of pebbles and some sticks are lying on the grass. Nobody put them there",
+      "solution": "They were used to make a snowman. The snow has now melted.",
+
+      "de_title": "Stöcke und Kieselsteine",
+      "de_story": "Auf dem Rasen liegt ein kleiner Haufen aus Stöcken und Kieselsteinen. Niemann hat sie auf das Gras gelegt.",
+      "de_solution": "Die Stöckchen und Steine wurden dazu verwendet, einen Schneemann zu bauen. Mittlerweile ist der Schnee geschmolzen und nur noch die Reste übrig.",
+
+      "picture": "http://carc.me/blackbooks/img/rocks.jpg",
+      "imagesource": "Jeremy Thomas - https://stocksnap.io/author/26102",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 5,
+      "title": "Kid maths",
+      "story": "A woman had two sons who were born on the same hour of the same day of the same year. But they were not twins. How could this be so?",
+      "solution": "They were two of a set of triplets (or quadruplets etc.)",
+
+      "de_title": "Milchmädchenrechnung",
+      "de_story": "Eine Frau hat zwei Söhne, die in derselben Stunde desselben Tages desselben Jahres geboren wurden, jedoch keine Zwillinge sind. Wie ist das möglich?",
+      "de_solution": "Es handelt sich um Drillinge (oder Vierlinge etc.)",
+
+      "picture": "http://carc.me/blackbooks/img/maths.jpg",
+      "imagesource": "Roman Mager - https://unsplash.com/@roman_lazygeek",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 6,
+      "title": "Too transparent",
+      "story": "This ancient invention, still in use in most parts of the world today, allows people to see through walls.",
+      "solution": "A window",
+
+      "de_title": "Durchsichtig",
+      "de_story": "Diese altertümliche Erfindung wird bis heute in fast allen Teilen der Welt genutzt, um durch Wände hindurchzusehen.",
+      "de_solution": "Ein Fenster.",
+
+      "picture": "http://carc.me/blackbooks/img/ancient.jpg",
+      "imagesource": "贝莉儿 NG - https://unsplash.com/@danist07",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 7,
+      "title": "No Notice",
+      "story": "A man works on the 24th floor of a  skyscraper and decides to quit his job. He climbs through the window but is not injured in any way.",
+      "solution": "He is a window cleaner, who climbs back INTO the building.",
+
+      "picture": "http://carc.me/blackbooks/img/city.jpg",
+      "imagesource": "Jared Erondu - https://unsplash.com/@erondu",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 8,
+      "title": "Strapped in",
+      "story": "One of Johnny's dearest loved ones binds him to a chair, but Johnny doesn't mind.",	
+      "solution": "Johnny is a kid. The chair is a seat in a car. One of Johnny's parents put his seatbelt on for him.",
+
+      "de_title": "Gefesselt",
+      "de_story": "Jemand, der Johnny sehr nahe steht, bindet ihn an einem Stuhl fest und Johnny macht das nichts aus.",
+      "de_solution": "Johnny ist ein Kind und es handelt sich um einen Kindersitz im Auto. Seine Eltern befestigen für ihn den Sicherheitsgurt.",
+
+      "picture": "http://carc.me/blackbooks/img/tied_to_chair.jpg",
+      "imagesource": "Evan Kirby - https://unsplash.com/@evankirby2",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 9,
+      "title": "Biblical catastrophe",	
+      "story": "How many of each animal did Moses take on the ark?",	 
+      "solution": "None. Moses wasn’t on the ark, that was Noah.",
+
+
+      "de_title": "Eine Katastrophe biblischen Ausmaßes",
+      "de_story": "Wie viele Tiere nahm Moses mit auf seine Arche?",
+      "de_solution": "Kein einziges. Moses war nicht auf der Arche, es war Noah.",
+
+      "picture": "http://carc.me/blackbooks/img/safari.jpg",
+      "imagesource": "Hani Jajeh - https://unsplash.com/@hanijajeh",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 10,
+      "title": "Odd ones out",	
+      "story": "A man died and went to Heaven. There were thousands of other people there. They were all naked and all looked as they did at the age of 21. He looked around to see if there was anyone he recognised. He saw a couple and he immediately knew that they were Adam and Eve. How?",	
+      "solution": "They were the only ones there without a navel (belly button). Because they were not born, they had never had umbilical cords and therefore they never had navels.",
+
+      "de_title": "Gleich erkannt",
+      "de_story": "Ein Mann stirbt uns kommt in den Himmel. Dort trifft er zahlreiche andere Menschen. Sie alle sind nackt und sehen aus, wie einst mit 21 Jahren. Der Mann schaut sich um, um Menschen zu erkennen, die er vielleicht von früher kennt. Ihm fällt ein Paar auf, welches er sofort als Adam und Eva identifiziert. Wie geht das?",
+      "de_solution": "Adam und Eva sind die einzigen beiden Menschen ohne Bauchnabel. Sie wurden nie geboren und hatten demnach auch nie eine Nabelschnur.",
+
+      "picture": "http://carc.me/blackbooks/img/ancient_church.jpg",
+      "imagesource": "Luca Baggio - https://unsplash.com/@luca42",
+      "storysource": "Classic"
+    }
+  ]
+}

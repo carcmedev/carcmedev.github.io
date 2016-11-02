@@ -1,0 +1,145 @@
+{
+  "filename": "Dead_Set",
+  "stories": [
+    {
+      "_id": 1,
+      "title": "Special Delivery",	
+      "story": "A man is laying dead in a field. Next to him there is an unopened package.",	
+      "solution": "The man had jumped from a plane but his parachute had failed to open. That is the unopened package.",
+
+      "de_title": "Wichtige Paketzustellung",
+      "de_story": "Ein Mann liegt tot auf einem Feld. In seiner Nähe befindet sich ein ungeöffnetes Päckchen.",
+      "de_solution": "Der Mann sprang aus einem Flugzeug. Das Päcken ist sein Fallschirm, der sich leider nicht geöffnet hatte.",
+
+      "picture": "http://carc.me/blackbooks/img/package.jpg",
+      "imagesource": "Joanna Kosinska - http://joannakosinska.com/",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 2,
+      "title": "One too many",
+      "story": "Two people in a room alone. One looks around and realizes he's going to die",
+      "solution": "The two people are Siamese twins. One wakes up, notices the other one has died and realizes he will die soon too.",
+      
+      "de_title": "Einer zuviel",
+      "de_story": "Zwei Männer sind alleine in einem Zimmer. Einer der beiden sieht sich um und erkennt, dass er bald sterben wird.",
+      "de_solution": "Die beiden Männer sind siamesische Zwillinge. Einer der Beiden ist in der Nacht verstorben. Sein Bruder weiß, dass auch er bald sterben wird.",
+
+      "picture": "http://carc.me/blackbooks/img/body_in_room.jpg",
+      "imagesource": "Ryan McGuire - http://www.laughandpee.com/",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 3,
+      "title": "Watery Grave",
+      "story": "A group of corpses are floating in the ocean",
+      "solution": "A group of people were out at sea in a yacht. They decide to go swimming and all jump in the water. When finished they realise they didn't put a ladder over the side and are unable to climb back in",
+
+      "de_title": "Ein nasses Grab",
+      "de_story": "Eine Gruppe junger Menschen schwimmt tot im Meer.",
+      "de_solution": "Die Gruppe befand sich auf einer Yacht und entschied sich, schwimmen gehen zu wollen. Jedoch ließen sie die Trittleiter nicht ausgeklappt und gingen auch nicht vor Anker, bevor sie ins Wasser sprangen. Aus diesem Grund konnten sie nicht zurück auf die Yacht gelangen und ertranken.",
+
+      "picture": "http://carc.me/blackbooks/img/ocean_boat.jpg",
+      "imagesource": "Brain & Storm - http://brainandstorm.com/",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 4,
+      "title": "Tropical retreat",
+      "story": "A man in uniform stands on the beach of a tropical island. He takes out a cigarette, lights it, and begins smoking. He takes out a letter and begins reading it. The cigarette burns down between his fingers but he doesn't throw it away. He cries",
+      "solution": "He is a guard / attendant in a leper colony. The letter tells him that he has contracted the disease. The key is the cigarette burning down between his fingers -- leprosy is fairly unique in killing off sensory nerves without destroying motor ability",
+
+      "de_title": "Gestrandet auf einer tropischen Insel",
+      "de_story": "Ein Mann in Uniform steht am Strand einer tropischen Insel. Er nimmt eine Zigarette aus der Schachtel, zündet sie an und raucht sie. Er nimmt einen Brief aus seiner Westentasche und beginnt, zu lesen. Die Zigarette brennt zwischen seinen Fingern langsam aber sicher ab. Der Mann schmeißt sie dennoch nicht weg. Er weint.",
+      "de_solution": "Der Mann ist Wachmann auf einer Insel, die als Lepra-Kolonie dient. In dem Brief wird er darüber informiert, dass auch er an Lepra erkrankt ist. Die Tatsache, dass die brennende Zigarette zwischen seinen Fingern nicht zu heiß wurde, ist bereits ein erstes Indiz. Lepra greift Schmerzsensoren an. Motorische Fähigkeiten bleiben unbeeinträchtigt.",
+
+      "picture": "http://carc.me/blackbooks/img/tropical_island.jpg",
+      "imagesource": "Sergio Jara - https://unsplash.com/@sergiojara",
+      "storysource": "Classic: Leprosy - https://en.wikipedia.org/wiki/Leprosy"
+    },
+    {
+      "_id": 5,
+      "title": "Elementary Deduction",	 
+      "story": "A dead body lays in front of a building and it appears to be suicide. A detective looks at the body and heads towards the building. He goes to the first floor, he lights a cigarette, walks towards the window facing the body, opens the window and throws out the cigarette. He then goes to the second floor and repeats the same process. He does the same until he reaches the top floor and then takes the lift to the ground floor. Back at the scene, he informs the team that this is a murder.",
+      "solution": "He has to open each window facing the body himself. If it was suicide, at least one window would have been open so someone else must have closed the window.",
+
+      "de_title": "Erleuchtende Raucherpause",
+      "de_story": "Ein Mann liegt tot auf dem Bordstein. Alles sieht nach Selbstmord aus. Der Mann ist offenbar vor dem angrenzenden Wolkenkratzer in den Tod gesprungen. Ein Kriminalbeamter erscheint am Tatort, geht schnurstracks in das Bürogebäude, läuft in die erste Etage, raucht eine Zigarette, öffnet das Fenster, sieht im direkten Winkel den Leichnam und macht sich auf zur zweiten Etage. Auch dort raucht er eine Zigarette, öffnet das Fenster, sieht den Leichnam und macht sich auf in die nächste Etage. Die Prozedur wiederholt er, bis er ganz oben im Wolkenkratzer angekommen ist. Dann fährt er mit dem Fahrstuhl nach unten. Dort erklärt er seinen Kollegen: Es war Mord.",
+      "de_solution": "Der Inspektor muss auf jeder Etage das Fenster öffnen. Wer hat also das Fenster hinter dem Selbstmörder geschlossen?",
+
+      "picture": "http://carc.me/blackbooks/img/police_car.jpg",
+      "imagesource": "Matt Popovich - https://twitter.com/mpopv",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 6,
+      "title": "Shoes to die for",
+      "story": "A woman buys a new pair of shoes, goes to work, and dies.",
+      "solution": "The woman is the assistant to a circus knife-thrower. She stands in front of a target as knives are thrown around her. The new shoes have higher heels than she normally wears so she her head is now where the knife would usually land.",
+
+      "de_title": "Der Tod auf Latschen",
+      "de_story": "Eine Frau kauft sich neue Schuhe, geht auf Arbeit und stirbt.",
+      "de_solution": "Die Frau arbeitet im Zirkus und ist die Assistentin des Messerwerfers. Ihre neuen Schuhe machen sie größer als normal. Dadurch verkalkuliert sich der Messerwerfer mit der Höhe ihres Kopfes und trifft seine Assistentin aus Versehen tödlich.",
+
+      "picture": "http://carc.me/blackbooks/img/shoes.jpg",
+      "imagesource": "Redd Angelo - https://www.instagram.com/reddangelo",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 7,
+      "title": "Spring Hike",
+      "story": "On a bright spring day a group of hikers find a body in the mountains. There is a rifle nearby although the cause of death is not from a gun shot.",
+      "solution": "The man was a hunter. He was hunting during the winter, fired his shot and caused an avalanche which covered his body until the spring thaw.",
+
+      "de_title": "Osterspaziergang",
+      "de_story": "An einem wunderschönen Tag im Frühling entdeckt eine Gruppe Wanderer einen toten Mann in den Bergen. In seiner Hand befindet sich ein Gewehr. Der Mann starb jedoch nicht an einer Schusswunde.",
+      "de_solution": "Der Mann war ein Jäger, der im Winter auf Jagd gegangen ist. Mit einem Schuss löste er eine Lawine aus, die ihn unter sich begrub und tötete. Seine Leiche konnte erst entdeckt werden, nachdem der Schnee wieder geschmolzen war.",
+
+      "picture": "http://carc.me/blackbooks/img/mountain_hike.jpg",
+      "imagesource": "Zach Betten - https://unsplash.com/@bettenz",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 8,
+      "title": "Tune In, Turn Off",
+      "story": "A man is driving his car. He turns on the radio, then pulls over to the side of the road and shoots himself.",
+      "solution": "A radio DJ decides to kill his wife. To establish his alibi, he puts a prerecorded record on the air, quickly drives home, and kills her. On the way back, he turns on his show and discovers the recording is skipping.",
+
+      "de_title": "Bitte einschalten",
+      "de_story": "Ein Mann fährt in seinem Auto. Er macht das Radio an, fährt an den Straßenrand und erschießt sich.",
+      "de_solution": "Der Mann ist Radiomoderator. Er hat vor einiger Zeit beschlossen, seine Frau umbringen zu wollen. Um sich selbst ein Alibi zu verschaffen, nahm er seine Sendung auf. Als alle Welt denkt, er sei live im Studio fährt er in seine Wohnung und ermordet seine Frau. Auf dem Heimweg macht er das Radio an und merkt, dass das Band mit der Aufnahme hakt. Sein Plan hat nicht funktioniert!",
+
+      "picture": "http://carc.me/blackbooks/img/car_radio.jpg",
+      "imagesource": "Clem Onojeghuo - https://www.instagram.com",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 9,
+      "title": "Car Jacked",	
+      "story": "Jack is found shot to death in the front seat of his car. A gun lies out of his reach in the back seat. All the windows are closed and the doors are locked. There are no bullet holes anywhere on the car",
+      "solution": "The car is a convertible and the top was down. The murderer shot Jack and dropped the gun into the back seat of the car",
+
+      "de_title": "Tod auf Rädern",
+      "de_story": "Die Leiche von Jack wird auf dem Vordersitz seines Autos gefunden. Die Waffe liegt auf dem Rücksitz. Alle Fenster sind geschlossen und die Türen verriegelt. Es gibt keinerlei Einschusslöcher.",
+      "de_solution": "Jack ist Fahrer eines Cabriolets. Der Mörder hatte es leicht. Er erschoss Jack und schmiss die Waffe auf den Rücksitz.",
+
+      "picture": "http://carc.me/blackbooks/img/car_dash.jpg",
+      "imagesource": "Benjamin Child - https://twitter.com/benjaminchild",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 10,
+      "title": "Lethal Premonition",
+      "story": "A man walks down the stairs. He stops and knows his wife is dead.",	
+      "solution": "He is leaving a hospital after visiting his wife who is on a life support when the power goes out. The emergency lights do not come on so he knows the emergency backup generator is not working either",
+
+      "de_title": "Tödliche Vorahnung",
+      "de_story": "Ein Mann läuft die Treppen herunter. Als er anhält, weiß er, dass seine Frau tot ist",
+      "de_solution": "Der Mann befindet sich in einem Krankenhaus und hat gerade seine Frau besucht, die in einem Koma liegt. Als plötzlich der Strom ausfällt, bleibt er stehen. Als der Strom nicht schnell genug wieder angeht, weiß er, dass das Notstromaggregat versagt hat und seine Frau, die auf eine künstliche Beatmung angewiesen ist, gestorben ist.",
+
+      "picture": "http://carc.me/blackbooks/img/stairs.jpg",
+      "imagesource": "Paweł Bukowski - https://unsplash.com/@bukowski",
+      "storysource": "Classic"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "filename": "blackbooks_filelist",
+  "version": 3,
+  "server": "http://carc.me/blackbooks/",
+  "collections": [
+    {
+      "_id": 1,
+      "filename": "classic1.json",
+      "location": "http://carc.me/blackbooks/collections/classic1.json",
+      "title": "Classics Collection One",
+      "description": "A free collection to start developing your lateral thinking talents. Lateral thinking is a skill to be learned.",
+
+      "de_title": "Klassische Sammlung 1",
+      "de_description": "Eine kostenlose Sammlung für erste Schritte im Lateralen Denken. Ein Talent, das man erlernen kann.",
+
+      "el_title": "",
+      "el_description": "",
+
+      "es_title": "",
+      "es_description": "",
+
+      "cover": "http://carc.me/blackbooks/img/creepy_house.jpg",
+      "rating": 0,
+      "cost": 0,
+      "purchased": false
+    },
+    {
+      "_id": 2,
+      "filename": "greek_tragedy.json",
+      "location": "http://carc.me/blackbooks/collections/greek_tragedy.json",
+      "title": "Greek Tragedy",
+      "description": "Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create - Albert Einstein.",
+
+      "de_title": "Griechische Tragödie",
+      "de_description": "Vorstellungskraft ist wichtiger als Wissen. Während unser Wissen alles definiert, das wir zu verstehen und glauben denken, zeigt uns unsere Vorstellungskraft, was wir eines Tages entdecken oder kreieren könnten - Albert Einstein.",
+
+      "el_title": "",
+      "el_description": "",
+
+      "es_title": "",
+      "es_description": "",
+
+      "cover": "http://carc.me/blackbooks/img/greek_tradedy.jpg",
+      "rating": 0,
+      "cost": 1.50,
+      "purchased": false
+    },
+    {
+      "_id": 3,
+      "filename": "kids_stuff.json",
+      "location": "http://carc.me/blackbooks/collections/kids_stuff.json",
+      "title": "Kids Questions",
+      "description": "Most of the mistakes in thinking are inadequacies of perception rather than mistakes of logic - Edward de Bono.",
+
+      "de_title": "Kinderleichte Fragen",
+      "de_description": "Die meisten Fehler, die wir beim Denken begehen, sind Unzulänglichkeiten in unserer Wahrnehmung und keine fehlende Logik - Edward de Bono.",
+
+      "el_title": "",
+      "el_description": "",
+      "es_title": "",
+      "es_description": "",
+      "cover": "http://carc.me/blackbooks/img/kids_stuff.jpg",
+      "rating": 0,
+      "cost": 0,
+      "purchased": false
+    },
+    {
+      "_id": 4,
+      "filename": "dead_set.json",
+      "location": "http://carc.me/blackbooks/collections/dead_set.json",
+      "title": "Dead Set",
+      "description": "I do not fear death. I had been dead for billions and billions of years before I was born, and had not suffered the slightest inconvenience from it - Mark Twain.",
+
+      "de_title": "Eine tödliche Sammlung",
+      "de_description": "Ich fürchte den Tod nicht. Ich war viele Milliarden Jahre tot bevor ich geboren wurde und das hat mir rein gar nichts ausgemacht - Mark Twain.",
+
+      "el_title": "",
+      "el_description": "",
+
+      "es_title": "",
+      "es_description": "",
+
+      "cover": "http://carc.me/blackbooks/img/dead_set.jpg",
+      "rating": 0,
+      "cost": 0,
+      "purchased": false
+    },
+    {
+      "_id": 5,
+      "filename": "stranger.json",
+      "location": "http://carc.me/blackbooks/collections/stranger.json",
+      "title": "Stranger Than Fiction",
+      "description": "All stories are based on real life event. Check the links on each story to find more information surronding the circumstances that led to the situation.",
+
+      "de_title": "Geschichten, die das Leben schreibt",
+      "de_description": "Alle Geschichten basieren auf wahren Begebenheiten. Klicke den Link unter jeder Geschichte, um weitere spannende Hintergründe zu den Ereignissen zu erfahren.",
+
+      "el_title": "",
+      "el_description": "",
+
+      "es_title": "",
+      "es_description": "",
+
+      "cover": "http://carc.me/blackbooks/img/stranger.jpg",
+      "rating": 0,
+      "cost": 0,
+      "purchased": false
+    },
+     {
+      "_id": 6,
+      "filename": "classic2.json",
+      "location": "http://carc.me/blackbooks/collections/classic2.json",
+      "title": "Classics Collection Two",
+      "description": "Lateral thinking is concerned not with playing with the existing pieces but with seeking to change those very pieces - Edward de Bono.",
+
+      "de_title": "Klassische Sammlung 2",
+      "de_description": "Beim Lateralen Denken geht es nicht darum, bereits existierende Puzzleteile zusammenzufügen. Ziel ist es, bereits gefunden geglaubte Teile zu ändern - Edward de Bono.",
+
+      "el_title": "",
+      "el_description": "",
+
+      "es_title": "",
+      "es_description": "",
+
+      "cover": "http://carc.me/blackbooks/img/mist_landscape.jpg",
+      "rating": 0,
+      "cost": 0,
+      "purchased": false
+    },
+   {
+      "_id": 7,
+      "filename": "classic3.json",
+      "location": "http://carc.me/blackbooks/collections/classic3.json",
+      "title": "Classic Collection 3",
+      "description": "Sometimes the situation is only a problem because it is looked at in a certain way. Looked at in another way, the right course of action may be so obvious that the problem no longer exists - Edward de Bono.",
+
+      "de_title": "Klassische Sammlung 3",
+      "de_description": "Manchmal erweisen sich Probleme lediglich als solche, weil man sie aus einem ganz bestimmten Blickwinkel betrachtet. Ändere diesen Blickwinkel und der richtige Weg zur Lösung liegt nahe - Edward de Bono.",
+
+      "el_title": "",
+      "el_description": "",
+
+      "es_title": "",
+      "es_description": "",
+
+      "cover": "http://carc.me/blackbooks/img/badlands.jpg",
+      "rating": 0,
+      "cost": 0,
+      "purchased": false
+    }
+  ]
+}

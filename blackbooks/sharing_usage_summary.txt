@@ -1,0 +1,14 @@
+a user wants to share an image from the app. Pressing the share button will either prompt the user to log in to his/her account. The app will retrieve the username and profile image to indicate a successful log in. The app will now proceed to share the image via the instagram api (user is prompted if the instagram app is required to complete the action).
+
+
+
+
+
+privacy policy template
+https://about.flipboard.com/privacy/?lang=en
+
+good looking privacy policy
+https://termsfeed.com/blog/wp-content/uploads/2015/02/ebay-privacy-policy-embed-mobile-app.jpg
+
+
+

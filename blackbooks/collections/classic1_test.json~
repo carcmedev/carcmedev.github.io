@@ -1,0 +1,145 @@
+{
+  "filename": "Classic1",
+  "stories": [
+    {
+      "_id": 1,
+      "title": "Fair Dismissal",
+      "story": "Wayne tells his boss: Don't take your planned flight today! I had a dream last night that if you do, your plane will crash and you'll die. Instead of being grateful the boss fires Wayne.",
+      "solution": "Wayne is a night watchman. As he was on duty the previous night, he shouldn't have been dreaming let alone sleeping.",
+
+      "de_title": "Gerechtfertigte Kündigung",
+      "de_story": "Wayne erzählt seinem Chef aufgebracht: Nehmen Sie auf keinen Fall den geplanten Flug für heute. Ich hatte letzte Nacht einen Traum und träumte, Sie würden abstürzen und sterben. Doch sein Chef war für die Warnung ganz und gar nicht dankbar, sondern feuerte Wayne.",
+      "de_solution": "Wayne ist ein Wachmann, der in der Nachtschicht arbeitet. Da er die Nacht zuvor gearbeitet hat, hätte er nicht träumen und schon gar nicht schlafen sollen.",
+
+      "picture": "https://source.unsplash.com/cIwk3xKjx1w",
+      "imagesource": "http://cdn.tinybuddha.com",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 2,
+      "title": "She Yearned for Him",
+      "story": "A woman came home with a bag of groceries, got the mail, and walked into the house. On the way to the kitchen, she went through the living room and looked at her husband, who had blown his brains out. She then continued to the kitchen, put away the groceries, and made dinner..",
+      "solution": "The husband killed himself some years ago. It's his ashes in an urn on the mantelpiece that the wife looks at.",
+      
+      "de_title": "Staub zu Staub",
+      "de_story": "Eine Frau kommt mit jeder Menge Einkaufstüten und der Post beladen in ihr Haus. Auf dem Weg zur Küche kommt sie am Wohnzimmer vorbei und sieht dort ihren Ehemann, der sich mit einer Schrotflinte in den Kopf geschossen hat. Die Frau geht weiter in die Küche, packt ihre Einkäufe aus und bereitet ihr Abendessen zu.",
+      "de_solution": "Der Ehemann hatte sich vor vielen Jahren das Leben genommen. Nach seiner Einäscherung stehen seine sterblichen Überreste in einer Urne auf dem Kaminsims im Wohnzimmer.",
+
+      "picture": "https://source.unsplash.com/WLUHO9A_xik",
+      "imagesource": "Daniel Stepanek - http://www.danielstepanek.co.uk/",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 3,
+      "title": "Broke",
+      "story": "A man pushed his car. He stopped when he reached a hotel at which point he knew he was bankrupt. Why?",
+      "solution": "He was playing Monopoly",
+
+      "de_title": "Pleite",
+      "de_story": "Ein Mann schiebt sein Auto. Als er an einem Hotel ankommt, weiß er, dass er finanziell ruiniert ist.",
+      "de_solution": "Der Mann spielt Monopoly.",
+
+      "picture": "https://source.unsplash.com/bnmzo3bMkCY",
+      "imagesource": "Javier Calvo - https://unsplash.com/@javiercalvoduque",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 4,
+      "title": "A Dark Story",
+      "story": "A black man dressed all in black, wearing a black mask, stands at a crossroads in a totally black-painted town. All of the streetlights in town are broken. A black-painted car without headlights drives straight toward him, but turns in time and doesn't hit him. How did the driver know to swerve?",
+      "solution": "It was day time",
+
+      "de_title": "Eine dunkle Geschichte",
+      "de_story": "Ein schwarzer Mann in schwarzer Kleidung und einer schwarzen Maske steht an einer Kreuzung in einer Stadt, in der alle Gebäude mit schwarzer Farbe verputzt sind. Keine der Straßenlaternen funktioniert. Ein schwarzes Auto ohne Scheinwerfer fährt geradewegs auf den Mann zu. In letzter Sekunde bremst der Fahrer ab. Wie konnte er den Mann dennoch sehen?",
+      "de_solution": "Es ist Tag und nicht wie oft automatisch angenommen Nacht.",
+
+      "picture": "https://source.unsplash.com/eh_vUyioHhc",
+      "imagesource": "Malik Earnest - https://unsplash.com/@resolvxd",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 5,
+      "title": "Spaghetti Calendar",
+      "story": "A man rides into town on a Wednesday. He stays three nights and leaves on Friday",
+      "solution": "Friday is the name of his horse",
+
+      "de_title": "Spaghetti Kalender",
+      "de_story": "Ein Mann reitet an einem Mittwoch in die Stadt. Er bleibt drei Nächte, sattelt sein Pferd Freitags und verlässt die Stadt wieder. Wie ist das möglich?",
+      "de_solution": "Freitags ist der Name des Pferdes.",
+
+      "picture": "https://source.unsplash.com/1DDFLlCz42k",
+      "imagesource": "Chor Hung Tsang - https://unsplash.com/@chorhung",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 6,
+      "title": "Sorry Surgeon",
+      "story": "A man and his son are in a car crash. The father is killed and the child taken to hospital gravely injured. When he gets there, the surgeon says 'I can't operate on this boy. He is my son.'",
+      "solution": "The surgeon is a woman and therefore the boy’s mother.",
+
+      "de_title": "Der mysteriöse Chirurg",
+      "de_story": "Ein Mann und sein Sohn sind in einen Autounfall verwickelt. Der Vater stirbt noch an der Unfallstelle. Sein Sohn wird in die Notaufnahme eingeliefert. Der behandelnde Chirurg weigert sich mit den Worten „Das ist mein Sohn!“, den Jungen zu operieren.",
+      "de_solution": "Der Chirurg ist eine Frau und somit die Mutter des Jungen.",
+
+      "picture": "https://source.unsplash.com/Hc42xXu_WOg",
+      "imagesource": "No credit available",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 7,
+      "title": "Romeo and Juliet",
+      "story": "Romeo and Juliet are lying dead on the floor in a puddle of water. There are glass pieces everywhere. Above them is an open window. The door to the room is shut close. What happened to the couple?",
+      "solution": "Romeo and Juliet are fish who were living in a bowl. A draft caused by the open window shut the door close and knocked over the bowl. Romeo and Juliet die without the water.",
+
+      "de_title": "Romeo und Julia",
+      "de_story": "Romeo und Julia liegen tot auf dem Boden. Um sie herum ist eine Pfütze aus Wasser. Das Fenster über ihnen ist geöffnet. Außerdem finden sich zahlreiche Glasscherben. Die Tür zum Zimmer ist geschlossen. Was ist passiert?",
+      "de_solution": "Romeo und Julia sind Fische, die in einem kleinen Glasbecken lebten, das auf der Fensterbank stand. Das offene Fenster und die geöffnete Tür sorgten für Zug, der die Tür zuschleuderte und das Glasbecken auf den Boden fallen ließ.",
+
+      "picture": "https://source.unsplash.com/B0kNuKcK7q0",
+      "imagesource": "Benjamin Combs - http://www.b3njamin.net",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 8,
+      "title": "Death at Sea",
+      "story": "A man sitting on a park bench reads a newspaper article headlined 'Death at Sea' and knows a murder has been committed.",
+      "solution": "The man is a travel agent. He had sold someone two tickets for an ocean voyage, one round-trip and one one-way. The last name of the man who bought the tickets is the same as the last name of the woman who 'fell' overboard and drowned on the voyage, which is the subject of the article he's reading.",
+
+      "de_title": "Tod auf Hoher See",
+      "de_story": "Ein Mann sitzt auf einer Parkbank und liest einen Artikel mit der Überschrift 'Tod auf Hoher See'. Er weiß sofort, dass es sich um einen Mord gehandelt haben muss. Warum?",
+      "de_solution": "Der Mann arbeitet in einem Reisebüro. Er hatte vor gar nicht allzu langer Zeit einem Kunden eine Kreuzfahrt gebucht. Der Mann kaufte für sich selbst ein Ticket mit Hin- und Rückfahrt. Seiner Frau jedoch kaufte er lediglich ein Ticket für eine Hinfahrt. Als er den Nachnamen der Frau, die auf dem Schiff „über Bord gegangen und ertrunken ist“, liest, weiß er, dass sein Kunde, dessen Nachnamen er kennt, einen geplanten Mord begangen hat und zudem auch noch ziemlich geizig ist.",
+
+      "picture": "https://source.unsplash.com/O_uHS1bru2k",
+      "imagesource": "Jeremy Bishop - https://unsplash.com/@jeremybishop",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 9,
+      "title": "Sack of Loot",
+      "story": "Joe, wearing a mask and carrying an empty sack, leaves his house. An hour later he returns with a full sack. He goes into a room and turns out the lights.",
+      "solution": "Joe is a kid who goes trick-or-treating for Halloween, returns, and goes to sleep.",
+
+      "de_title": "Beute zu später Nacht",
+      "de_story": "Joe trägt eine Maske und eine leere Tasche, als er sein Haus verlässt. Eine Stunde später kehrt er mit einer voll bepackten Tasche zurück, geht in sein Zimmer und macht das Licht aus.",
+      "de_solution": "Joe ist ein kleiner Junge, der zu Halloween „Süßes oder Saures“ gespielt hat. Als er zurückkommt, geht er in sein Zimmer und legt sich ins Bett.",
+
+      "picture": "https://source.unsplash.com/sfgH9dXcMRw",
+      "imagesource": "http://unsplash.com",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 10,
+      "title": "Bottoms Up",
+      "story": "Two men enter a bar. They are served identical drinks. One lives, the other dies.",
+      "solution": "The drinks contain poisoned ice cubes. One man drinks slowly, giving them time to melt, while the other drinks quickly and thus doesn't get much of the poison.",
+
+      "de_title": "Prost Tod!",
+      "de_story": "Zwei Männer betreten eine Bar. Ihnen werden genau dieselben Getränke serviert. Der eine Mann lebt, der andere stirbt.",
+      "de_solution": "Die Drinks enthalten vergiftete Eiswürfel. Einer der Männer trinkt sehr schnell und nimmt somit keine tödliche Dosis zu sich. Der andere Mann trinkt langsam und gibt den Eiswürfeln somit Zeit, komplett zu schmelzen. Er nimmt die volle Dosis Gift zu sich und stirbt.",
+
+      "picture": "https://source.unsplash.com/",
+      "imagesource": "Serge Esteve - https://unsplash.com/@sce767",
+      "storysource": "Classic"
+    }
+  ]
+}

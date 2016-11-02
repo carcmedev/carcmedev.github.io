@@ -1,0 +1,145 @@
+{
+  "filename": "Greek_Tragedy",
+  "stories": [
+    {
+      "_id": 1,
+      "title": "Unsuitable Witness",
+      "story": "A Man in black turns out to be a most unsuitable witness to a murder.",
+      "solution": "The man in black is a bugler who saw a woman being killed on the opposite side of the street. Even though he saw everything and probably could identify the murderer he did not come forward as he didn’t want to implicate himself in a crime.",
+
+      "de_title": "Zeuge der Anklage",
+      "de_story": "Ein Mann in Schwarz erweist sich als unpassender Zeuge eines Mordes.",
+      "de_solution": "Der Mann ist ein Einbrecher, der sah, wie eine Frau in einer Wohnung auf der anderen Straßenseite der Wohnung, die er gerade ausraubt, ermordet wird. Obwohl er den Mörder identifizieren könnte, meldet er sich nicht bei der Polizei, weil er sich nicht selbst eines Verbrechens schuldig bekennen möchte.",
+
+      "picture": "http://carc.me/blackbooks/img/dark_man.jpg",
+      "imagesource": "Malik Earnest - http://malikearnest.com/",
+      "storysource": "Original"
+    },
+    {
+      "_id": 2,
+      "title": "Globe trotter",
+      "story": "Karl has a name tag hanging around his neck as he travels half way around the world with a complete stranger.",
+      "solution": "Karl is a child traveling alone on a plane. His name, address and name of the family member that will pick him up from the airport are on display so the guardian from the airline can follow proceedings. When he gets to his destination, a designated person will collect him after identifying themselves with a passport.",
+
+      "de_title": "Weltenbummler",
+      "de_story": "Karl trägt ein Schild um den Hals, als er in Begleitung eines Fremden um die halbe Welt reist.",
+      "de_solution": "Karl ist ein Minderjähriger, der mit einer Begleitperson der Airline fliegt. Das Schild um seinen Hals trägt seinen Namen, seine Adresse und den Namen der Person, die ihn am Zielflughafen in Empfang nehmen wird. Nach der Landung muss sich das Familienmitglied ausweisen und darf erst dann das Kind mit nach Hause nehmen.",
+
+      "picture": "http://carc.me/blackbooks/img/tags.jpg",
+      "imagesource": "Holly Mindrup - https://unsplash.com/@hollymindrup",
+      "storysource": "Original"
+    },
+    {
+      "_id": 3,
+      "title": "A jolly cruise",
+      "story": "Because Alan went on a cruise Martin had to die.",
+      "solution": "Alan could have provided an alibi for Martin. As Alan could not be found or contacted, Martin was found guilty of his crime and sentenced to death.",
+
+      "de_title": "Eine verhängnisvolle Kreuzfahrt",
+      "de_story": "Weil Alan auf Kreuzfahrt ging, musste Martin sterben.",
+      "de_solution": "Alan hätte Martin ein Alibi geben können. Da er jedoch von dem Gerichtverfahren und den Anschuldigungen gegen Martin nichts wusste, wurde dieser für schuldig befunden und schließlich zum Tode verurteilt.",
+
+      "picture": "http://carc.me/blackbooks/img/ferry.jpg",
+      "imagesource": "Linval Ebanks - https://unsplash.com/@ebanks89",
+      "storysource": "Original"
+    },
+    {
+      "_id": 4,
+      "title": "Sing for me",
+      "story": "When Karl stopped singing, Yuri had to run for his life.",
+      "solution": "Yuri is a miner and uses Karl, a canary, to detect dangerous gases. The gases would kill the canary before killing the miners, providing a warning to exit the tunnels immediately.",
+
+      "de_title": "Sing für mich!",
+      "de_story": "Als Karl nicht mehr sang, musste Yuri um sein Leben rennen.",
+      "de_solution": "Yuri ist ein Mienenarbeiter. Karl ein Kanarienvogel, der tödliche Gase anzeigen soll. Diese Gase töten einen kleinen Vogel lange, bevor sie dem Menschen gefährlich werden. Nach dem Tod des Kanarienvogels, haben die Mienenarbeiter genug Zeit zur Flucht.",
+
+      "picture": "https://pixabay.com/static/uploads/photo/2015/07/30/11/40/all-saints-867542_960_720.jpg",
+      "imagesource": "WikimediaImages - https://pixabay.com/en/users/WikimediaImages-1185597",
+      "storysource": "Original: Canary in a coal mine - https://en.wiktionary.org/wiki/canary_in_a_coal_mine"
+    },
+    {
+      "_id": 5,
+      "title": "Free confession",
+      "story": "A man commits a murder and confesses it to three different people. No charges will be made.",
+      "solution": "The three people are his lawyer, his priest and his doctor. ",
+
+      "de_title": "Beichte ohne Konsequenzen",
+      "de_story": "Ein Mann beichtet drei verschiedenen Menschen einen Mord. Dennoch wird keine Anzeige erstattet.",
+      "de_solution": "Bei den drei Menschen handelt es sich um seinen Anwalt, seinen Priester und seinen Arzt.",
+
+      "picture": "http://carc.me/blackbooks/img/typewriter.jpg",
+      "imagesource": "Florian Klauer - https://unsplash.com/@florianklauer",
+      "storysource": "Original"
+    },
+    {
+      "_id": 6,
+      "title": "Unhappy reunion",
+      "story": "When Michael landed at the airport, his family were in tears.",
+      "solution": "Michael is a soldier returning from his tour overseas. Unfortunately, he is returning in a coffin.",
+
+      "de_title": "Unglückliches Wiedersehen",
+      "de_story": "Als Michael am Flughafen landet, bricht seine Familie in Tränen aus.",
+      "de_solution": "Michael ist ein Soldat, der von einem Einsatz im Ausland heimkehrt. Leider jedoch starb er im Kriegsgeschehen und wird in einem Sarg zu seinen Angehörigen geschickt.",
+
+      "picture": "http://carc.me/blackbooks/img/airport_airplane.jpg",
+      "imagesource": "Andrey Larin - https://unsplash.com/@engine9",
+      "storysource": "Original"
+    },
+    {
+      "_id": 7,
+      "title": "Family ties",
+      "story": "Peter and Steve are cousins. A genetic analysis proved them to be brothers. How is that possible?",
+      "solution": "Both parents are twins. Two twin brothers married two twin sisters. As each parent provides 50 percent of their children’s DNA and twins have nearly identical DNA, their children are cousins but, genetically, as close as brothers.",
+
+      "de_title": "Familienbande",
+      "de_story": "Peter und Steve sind Cousins. Eine Genanalyse jedoch zeigt, dass sie Brüder sind. Wie ist das möglich?",
+      "de_solution": "Die Eltern von Steve und Peter waren Zwillinge. Zwei Zwillingsbrüder heirateten zwei Zwillingsschwestern. Jedes Elternteil liefert 50 Prozent der DNS eines Kindes. Das Zwillinge jedoch fast identische DNS haben, sind Peter und Steve zwar Cousins, ihre DNS jedoch ähnelt eher der von Brüdern.",
+
+      "picture": "http://carc.me/blackbooks/img/brother_sister.jpg",
+      "imagesource": "Martin Vorel - http://libreshot.com/",
+      "storysource": "Classic: Identical Twins Marriages - http://www.oddee.com/item_97898.aspx"
+    },
+    {
+      "_id": 8,
+      "title": "Time waits for no man",
+      "story": "A rope breaks. A bell rings. A man dies.",
+      "solution": "The man is a bell ringer. While pulling the rope to ring the bell, the rope breaks free along with the iron bracket which falls down the shaft and hits him.",
+
+      "de_title": "Die Zeit wartet auf niemanden",
+      "de_story": "Ein Seil reißt. Eine Glocke läutet. Ein Mann stirbt.",
+      "de_solution": "Der Mann war ein Glöckner. Als er an dem Seil zog, um die Glocken zu läuten, riss dieses und eine der Glocken löst sich aus der Halterung und erschlägt ihn.",
+
+      "picture": "http://carc.me/blackbooks/img/time.jpg",
+      "imagesource": "Sonja Langford - https://unsplash.com/@sonjalangford",
+      "storysource": "Original"
+    },
+    {
+      "_id": 9,
+      "title": "Stuck in my head",
+      "story": "It was an earworm that ultimately ruined his marriage.",
+      "solution": "A man is constantly humming the same song. He heard it at a concert. Unfortunately his sister in law does the same thing. His wife therefore knows that the two must have gone together. Because they lied about this she gets suspicious and ultimately finds out about their affair.",
+
+      "de_title": "Nerviger Ohrwurm",
+      "de_story": "Es war ein Ohrwurm, der schließlich seine Ehe ruinierte.",
+      "de_solution": "Der Mann summte stets dasselbe Lied. Er hatte es auf einem Konzert gehört. Dummerweise summte seine Schwägerin genau denselben Ohrwurm. Seine Frau konnte daraus schließen, dass die Beiden das Konzert zusammen besucht haben mussten. Die Tatsache, dass sie das nicht zugeben wollten, machte sie so stutzig, dass sie ihrer Affäre schließlich auf die Schliche kam.",
+
+      "picture": "http://carc.me/blackbooks/img/bad_marriage.jpg",
+      "imagesource": "https://pixabay.com/en/users/stevepb-282134",
+      "storysource": "Original: Earworm - https://en.wikipedia.org/wiki/Earworm"
+    },
+    {
+      "_id": 10,
+      "title": "It was the best of times...",
+      "story": "Stephen Mulford killed John Black and Adam Kowalzky gets a big payoff for it.",
+      "solution": "Adam Kowalzky is an author writing under the pseudonym of Stephen Mulford. In one of his novels he kills of his hero John Black. The book is a big success and Adam earns lots of money with it.",
+
+      "de_title": "Es war die beste aller Zeiten…",
+      "de_story": "Stephen Mulford tötete John Black und Adam Kowalzky verdient jede Menge Geld.",
+      "de_solution": "Adam Kowalzky ist ein Autor, der unter dem Pseudonym Stephen Mulford schreibt. In einem seiner Bücher tötet er seinen Helden John Black. Das Buch wird ein Riesenerfolg und Adam verdient jede Menge Geld.",
+
+      "picture": "http://carc.me/blackbooks/img/crows.jpg",
+      "imagesource": "Alex Jones - https://unsplash.com/@alexjones",
+      "storysource": "Original: Pen Names - https://en.wikipedia.org/wiki/List_of_pen_names"
+    }
+  ]
+}

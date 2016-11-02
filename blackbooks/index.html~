@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="google-site-verification" content="hWXT4R-Gn6R3On_h9VSJ8pIAOMP5xuLciku0zb2sjWs" />
+    
+    <title>BlackBooks : Home</title>
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/icon" href="assets/images/bookblack.ico"/>
+    <!-- Font Awesome -->
+    <link href="assets/css/font-awesome.css" rel="stylesheet">
+    <!-- Bootstrap -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">    
+    <!-- Slick slider -->
+    <link rel="stylesheet" type="text/css" href="assets/css/slick.css"/> 
+    <!-- Fancybox slider -->
+    <!-- Fancybox slider -->
+    <link rel="stylesheet" href="assets/css/jquery.fancybox.css" type="text/css" media="screen" /> 
+    <!-- Animate css -->
+    <link rel="stylesheet" type="text/css" href="assets/css/animate.css"/>  
+     <!-- Theme color -->
+    <link id="switcher" href="assets/css/theme-color/default-theme.css" rel="stylesheet">
+
+    <!-- Main Style -->
+    <link href="style.css" rel="stylesheet">
+
+
+    <!-- Fonts -->
+
+    <!-- Open Sans for body font -->
+<!--    <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>-->
+    <!-- Cabin for Title -->
+<!--    <link href='https://fonts.googleapis.com/css?family=Cabin' rel='stylesheet' type='text/css'>-->
+    <!-- Pacifico for Logo   -->
+    <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    </script> 
+
+
+    
+  </head>
+  <body>  
+
+
+
+  <!-- BEGIN PRELOADER -->
+  <div id="preloader">
+    <div id="status">&nbsp;</div>
+  </div>
+  <!-- END PRELOADER -->
+
+  <!-- Start menu area -->
+  <div class="nav-area">      
+    <a id="menu-btn" href="#"><i class="fa fa-bars"></i></a>
+    <nav class="main-nav" id="main-menu">
+      <span class="fa fa-remove" id="close"></span>
+      <ul>  
+        <li> <a href="#header"><i class="fa fa-home"></i><span>Home</span></a></li>
+        <li><a href="#howit-works"><i class="fa fa-hourglass"></i><span>How it Works</span></a></li>
+        <li><a href="#features"><i class="fa fa-server"></i><span>Features</span></a></li>
+        <li><a href="#screenshot"><i class="fa fa-image"></i><span>Screenshots</span></a></li>
+        <li><a href="#download-app"><i class="fa fa-download"></i><span>Download</span></a></li>
+        <li><a href="#story-ratings"><i class="fa fa-star-o"></i><span>Ratings</span></a></li>
+        <!--<li><a href="#pricing-table"><i class="fa fa-usd"></i><span>Pricing</span></a></li>-->
+        <li><a href="#testimonial"><i class="fa fa-certificate"></i><span>Testimonials</span></a></li>
+        <li><a href="#contact"><i class="fa fa-envelope-o"></i><span>Contact</span></a></li>          
+      </ul>      
+    </nav>
+  </div>  
+  <!-- End menu area -->
+
+  <!-- Start header section --> 
+  <header id="header">
+    <div class="header-inner">
+      <!-- Header image -->
+      <img src="./img/creepy_house.jpg" style=max-width:100%; id="bgsplash" alt="img">
+<!--      <img src="https://source.unsplash.com/collection/234152" style=max-width:100%; id="bgsplash" alt="img">-->
+      <div class="overlay">
+        <div class="header-content">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12">
+                <div class="header-top">
+                  <!-- Start logo area -->
+                  <div class="logo-area">
+                    <!-- Image based logo -->
+                    <h1 class="logo">BlackBooks for Android</h1>
+                  </div>
+                  <!-- End logo area -->                 
+                </div>
+              </div>
+              <div class="col-md-12">
+                <div class="header-bottom">
+                <div class="row">
+                  <div class="col-md-6 col-sm-6">
+                    <div class="header-bottom-left">
+
+                      <p>Discard the obvious</p>
+                      <p>Suspend traditional thought</p>
+                      <p>Ignore preconceptions</p>
+                      <a class="download-btn" href="https://play.google.com/store/apps/details?id=me.carc.blackbooks" target="_blank">Download</a>
+
+                    </div>
+                  </div>
+                  <div class="col-md-6 col-sm-6">
+                    <div class="header-bottom-right">
+                      <!-- <img src="assets/images/iphone-group1.png" alt="iphone grpup img"> -->
+                      <!--<img src="assets/images/catalogue_view.png" alt="catalogue screen shot" />-->
+                    </div>
+                  </div>
+                </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>      
+    </div>
+  </header>
+  <!-- End header section --> 
+  
+  
+  
+
+  <!-- Start how it works -->
+  <section id="howit-works">
+    <div class="howit-works-area">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="title-area wow fadeInLeft">
+              <h2 class="title">How it <span>Works</span></h2>
+                          <div>
+              <ul>&nbsp</ul>
+              <ul>BlackBooks is a social game designed to be played in groups of three or more.</ul>
+              <ul>&nbsp</ul>
+              <ul>The group is presented with a series of thinking puzzles set in strange situations. With limited information, the group attempts to find the explanation to the puzzle.</ul>
+              <ul>&nbsp</ul>
+              <ul>The person with the device answers questions from the group using only 'Yes', 'No' and 'Irrelevant'.</ul>
+              <ul>&nbsp</ul>
+              <ul>Once the group has solved the riddle, pass the device to another in group and start again.</ul>
+              <ul>&nbsp</ul>
+              <ul>The group needs to be open-minded, flexible and creative with their questioning and able to put lots of different clues and pieces of information together</ul>
+              <ul>&nbsp</ul>
+              <ul>&nbsp</ul>
+              <ul>If you've done these types of puzzles before, there are many here that have been create specifically for BlackBooks. And if you're new to these  puzzle then you'll find lots of the classic tales within</ul>
+              <ul>&nbsp</ul>
+            </div>
+
+            </div>
+          </div>  
+          <div class="col-md-12">
+            <div class="howit-works-video">
+              <!-- Your embedded video player code -->
+              <iframe width="900" height="280" src="https://www.youtube.com/embed/VQQs3cMO8fw?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+            </div>
+          </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End how it works -->
+
+
+
+
+  <!-- Start Features -->
+  <section id="features">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="title-area">
+            <h2 class="title">Awesome <span>Features</span></h2>
+            <p>BlackBooks is packed full of amazing features to create a beautiful experience.</p>
+          </div>
+        </div>
+        <div class="col-md-12">
+          <div class="features-area">
+            <div class="row">
+              <!-- Start features left -->
+              <div class="col-md-4">
+                <div class="features-left">
+                  <ul class="features-list features-list-left">
+                    <li class="wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                      <i class="fa fa-image"></i>
+                      <div class="features-content">
+                        <h4>Beautiful Images</h4>
+                        <p>Stunning photographs to compliment each story</p>
+                      </div>
+                    </li>
+                    <li class="wow fadeInLeft" data-wow-duration="0.75s" data-wow-delay="0.75s">
+                      <i class="fa fa-expand"></i>
+                      <div class="features-content">
+                        <h4>Orientation detection</h4>
+                        <p>Landscape mode to view full screen images</p>
+                      </div>
+                    </li>
+                    <li class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay="1s">
+                      <i class="fa fa-object-group"></i>
+                      <div class="features-content">
+                        <h4>Complimentary Display</h4>
+                        <p>Background colours pulled from the image to create display</p>
+                      </div>
+                    </li>
+                    <li class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay="1s">
+                      <i class="fa fa-flask"></i>
+                      <div class="features-content">
+                        <h4>Easy to Use</h4>
+                        <p>Simple and intuitive design makes it easy to use</p>
+                      </div>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <!-- End features left -->
+              <!-- Start features img -->
+              <div class="col-md-4">
+                <div class="feature-img wow fadeInUp">
+                  <img src="assets/images/catalogue_view.png" alt="iPhone mockup">
+                </div>
+              </div>
+              <!-- End features img -->
+              <!-- Start features right -->
+              <div class="col-md-4">
+                <div class="features-right">
+                  <ul class="features-list features-list-right">
+                    <li class="wow fadeInRight" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                      <i class="fa fa-rocket"></i>
+                      <div class="features-content">
+                        <h4>Premium Account</h4>
+                        <p>Go premium and never pay again</p>
+                      </div>
+                    </li>
+                    <li class="wow fadeInRight" data-wow-duration="0.75s" data-wow-delay="0.75s">
+                      <i class="fa fa-language"></i>
+                      <div class="features-content">
+                        <h4>Language Support</h4>
+                        <p>English and German so far, more coming</p>
+                      </div>
+                    </li>
+                    <li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay="1s">
+                      <i class="fa fa-heart"></i>
+                      <div class="features-content">
+                        <h4>Social Media</h4>
+                        <p>Share your progress on your favourite social media</p>
+                      </div>
+                    </li>
+                    <li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay="1s">
+                      <i class="fa fa-edit"></i>
+                      <div class="features-content">
+                        <h4>Create your Story</h4>
+                        <p>Send us your own story, solution and image. Full credit given for all stories</p>
+                      </div>
+                    </li>
+                  </ul>
+                </div>
+              </div>   
+              <!-- End features right -->                 
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Features -->
+
+
+
+
+  <!-- Start screenshot -->
+  <section id="screenshot">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="title-area wow fadeInUp" data-wow-duration="0.75s" data-wow-delay="0.75s" >
+            <h2 class="title">App <span>Screenshots</span></h2>
+            <p>Showcasing some of the features and stories... there are many more, too many to show here.</p>
+          </div>
+        </div>
+        <div class="col-md-12">
+          <div class="screenshots-area">
+            <ul class="screenshots-slide">
+              <li class="col-md-3 wow fadeInLeft">
+               <a class="fancybox" data-fancybox-group="gallery" href="assets/images/screenshot_catalogue.png"><img src="assets/images/screenshot_catalogue.png" width="270" height="480" alt="app screenshot catalogue selection">
+                  <div class="view-btn-area">
+                    <span class="fa fa-search view-btn"></span>
+                  </div>
+               </a>
+              </li>
+               <li class="col-md-3 wow fadeInLeft">
+                 <a class="fancybox" data-fancybox-group="gallery" href="assets/images/screenshot_classic1.png"><img src="assets/images/screenshot_classic1.png" width="270" height="480" alt="app screenshot collection">
+                    <div class="view-btn-area">
+                      <span class="fa fa-search view-btn"></span>
+                    </div>
+                 </a>
+              </li>
+               <li class="col-md-3 wow fadeInLeft">
+                 <a class="fancybox" data-fancybox-group="gallery" href="assets/images/screenshot_storylist_classic1.png"><img src="assets/images/screenshot_storylist_classic1.png" width="270" height="480" alt="app screenshot story selection">
+                  <div class="view-btn-area">
+                    <span class="fa fa-search view-btn"></span>
+                  </div>
+               </a>
+              </li>
+               <li class="col-md-3 wow fadeInLeft">
+                 <a class="fancybox" data-fancybox-group="gallery" href="assets/images/screenshot_earworm.png"><img src="assets/images/screenshot_earworm.png" width="270" height="480" alt="app screenshot story">
+                  <div class="view-btn-area">
+                    <span class="fa fa-search view-btn"></span>
+                  </div>
+               </a>
+              </li>
+              <li class="col-md-3 wow fadeInLeft">
+                 <a class="fancybox" data-fancybox-group="gallery" href="assets/images/screenshot_one_too_many.png"><img src="assets/images/screenshot_one_too_many.png" width="270" height="480" alt="app screenshot story">
+                  <div class="view-btn-area">
+                    <span class="fa fa-search view-btn"></span>
+                  </div>
+               </a>
+              </li>
+               <li class="col-md-3 wow fadeInLeft">
+                 <a class="fancybox" data-fancybox-group="gallery" href="assets/images/screenshot_limes.png"><img src="assets/images/screenshot_limes.png" width="270" height="480" alt="app screenshot story">
+                  <div class="view-btn-area">
+                    <span class="fa fa-search view-btn"></span>
+                  </div>
+               </a>
+              </li>
+               <li class="col-md-3 wow fadeInLeft">
+                 <a class="fancybox" data-fancybox-group="gallery" href="assets/images/screenshot_sharemenu.png"><img src="assets/images/screenshot_sharemenu.png" width="270" height="480" alt="app screenshot social media share">
+                  <div class="view-btn-area">
+                    <span class="fa fa-search view-btn"></span>
+                  </div>
+               </a>
+              </li>
+               <li class="col-md-3 wow fadeInLeft">
+                 <a class="fancybox" data-fancybox-group="gallery" href="assets/images/screenshot_navbar.png"><img src="assets/images/screenshot_navbar.png" width="270" height="480" alt="app screenshot navigation bar">
+                  <div class="view-btn-area">
+                    <span class="fa fa-search view-btn"></span>
+                  </div>
+               </a>
+              </li>
+               <li class="col-md-3 wow fadeInLeft">
+                 <a class="fancybox" data-fancybox-group="gallery" href="assets/images/screenshot_createown.png"><img src="assets/images/screenshot_createown.png" width="270" height="480" alt="app screenshot create own story">
+                  <div class="view-btn-area">
+                    <span class="fa fa-search view-btn"></span>
+                  </div>
+               </a>
+              </li>
+               <li class="col-md-3 wow fadeInLeft">
+                 <a class="fancybox" data-fancybox-group="gallery" href="assets/images/screenshot_speeddash.png"><img src="assets/images/screenshot_speeddash.png" width="270" height="480" alt="app screenshot">
+                  <div class="view-btn-area">
+                    <span class="fa fa-search view-btn"></span>
+                  </div>
+               </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End screenshot -->
+
+  <!-- Start download app -->
+  <section id="download-app">
+    <div class="download-overlay">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="title-area wow fadeInUp">
+              <h2 class="title">Download <span>App</span></h2>
+              <p>BlackBooks is only for Android at present. Click below to go to the Play Store.</p>
+            </div>
+          </div>
+          <!-- Start download app content -->
+          <div class="col-md-12">
+            <div class="download-app-content">
+              <!-- Start single download -->
+              <a class="single-download wow fadeInLeft" data-wow-duration="0.75s" data-wow-delay="0.75s" href="https://play.google.com/store/apps/details?id=me.carc.blackbooks">
+                <div class="download-icon">
+                  <i class="fa fa-play"></i>
+                </div>
+                <div class="download-content">
+                  <p>Available on the</p>
+                  <span>Play Store</span>
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End download app -->
+
+
+
+  <!-- Start story ratings -->
+  <section id="story-ratings">
+    <div class="story-ratings-area">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="title-area wow fadeInLeft">
+              <h2 class="title">Story <span>Ratings</span></h2>
+		            <div>
+                  <p>You decide which stories and collections are the most highly rated. Ratings are taken from the app and shown here.</p>
+                </div>
+              </div>
+    <!-- Start download app content -->
+              <div class="col-md-12">
+                <div class="download-app-content wow fadeInRight">
+                  <div class="coming-soon">
+                    <p>&nbsp</p>
+                    <h1><span><strong>COMING</strong></span><span><strong> SOON</strong></span></h1>
+                    <h1>&nbsp</h1>
+                    <h1>&nbsp</h1>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>  
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End story ratings -->
+  
+  
+
+  <!-- Start testimonial -->
+  <section id="testimonial">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="title-area wow fadeInLeft">
+            <h2 class="title">What are <span>People Saying</span></h2>
+            <p>Feel free to send your feedback and a link to your image if you wish to appear here.</p>
+          </div>
+        </div>
+        <div class="col-md-12">
+          <div class="testimonial-slider">
+            <!-- single slide -->
+            <div class="testimonial-single-slide">               
+              <img class="testi-avatar" src="assets/images/marc.jpg" alt="testimonial img">
+              <p class="testi-name">Marc</p>
+              <p class="testi-company">Google.com</p>
+              <p class="testi-text">Looks amazing... just created my first story, looking forward to seeing it in the next collection</p>
+            </div>
+            <!-- single slide -->
+            <div class="testimonial-single-slide">               
+              <img class="testi-avatar" src="assets/images/tim.jpg" alt="testimonial img">
+              <p class="testi-name">Tim</p>
+              <p class="testi-company">Twitter.com</p>
+              <p class="testi-text">Looks very slick! ⁠⁠⁠I like the UI, nice and clean with clear navigation</p>
+            </div>
+            <!-- single slide -->
+            <div class="testimonial-single-slide">               
+              <img class="testi-avatar" src="assets/images/no-avatar.png" alt="testimonial img">
+              <p class="testi-name">Susanne</p>
+              <p class="testi-company">Facebook.com</p>
+              <p class="testi-text">Looks great and the riddles kept my friends and I going for ages!! Relly liked the link to the real stories in 'Stranger than Fiction'</p>
+            </div>
+            <!-- single slide -->
+            <div class="testimonial-single-slide">               
+              <img class="testi-avatar" src="assets/images/no-avatar.png" alt="testimonial img">
+              <p class="testi-name">Karl Heinz</p>
+              <p class="testi-company">Google.com</p>
+              <p class="testi-text">Very nicely done! Finally an app where you can play with people sitting in reality over! Thank you!</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>      
+  </section>
+  <!-- End testimonial -->
+
+
+
+
+  <!-- Start subscribe -->
+<!--  <section id="subscribe">
+    <div class="download-overlay">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="title-area wow fadeInUp">
+              <h2 class="title">Subscribe Our <span>Newsletter</span></h2>
+              <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour</p>
+            </div>
+          </div>-->
+          <!-- Start download app content -->
+  <!--        <div class="col-md-12">
+            <div class="subscribe-content wow fadeInLeft">
+              <form action="" class="subcr-form">
+                <i class="fa fa-envelope-o"></i>
+                <input type="text" name="" id="" placeholder="Type your mail address..">
+                <button type="submit" class="subcr-btn">Subscribe</button>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>-->
+  <!-- End subscribe -->
+  
+  
+  
+
+  <!-- Start contact -->
+  <section id="contact">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="title-area">
+              <h2 class="title">Get in <span>Touch</span></h2>
+              <p>Send us your feedback or any suggestions you have... we're always open to fresh ideas</p>
+          </div>
+        </div>
+        <div class="col-md-12">
+          <div class="contact-area">
+            <form action="mail.php" method="post" class="contact-form">
+              <div class="form-group">                  
+                <input type="text" class="form-control" placeholder="Your name" name="name_label" id="name_label" required>
+              </div>
+              <div class="form-group">                  
+                <input type="email" class="form-control" placeholder="Email" name="email_label" id="email_label" required>
+              </div>
+              <div class="form-group">                  
+                <textarea class="form-control" rows="3" placeholder="Your Message" name="message_label" id="message_label" required></textarea>
+              </div>
+              <div class="send-area">
+                <button type="submit" class="send-btn">Send Now</button>
+              </div>  
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End contact -->
+
+
+
+  <!-- Start footer -->
+  <footer id="footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="footer-social">
+            <a href="https://www.facebook.com/blackbooksapp/" target="_blank"><i class="fa fa-facebook"></i></a>
+            <a href="https://twitter.com/carcmedev" target="_blank"><i class="fa fa-twitter"></i></a>
+            <a href="https://www.instagram.com/carcmedev/" target="_blank"><i class="fa fa-instagram"></i></a>
+            <a href="https://de.pinterest.com/carcmedev/" target="_blank"><i class="fa fa-pinterest"></i></a>
+          </div>
+          
+            </div>
+          <div class="footer-text">
+            <p><a href="privacy.html" target="_blank">Privacy Policy</a></p>
+            <p><a href="conditions.html" target="_blank">Terms and Conditions</a></p>
+            <p>Designed by <a href="http://www.markups.io/" target="_blank">MarkUps.io</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- End -->
+
+  
+
+  <!-- FIREBASE STUFF -->
+  <script src="https://www.gstatic.com/firebasejs/3.4.0/firebase.js"></script>
+  <script>
+    // Initialize Firebase
+    var config = {
+      apiKey: "AIzaSyBjtjiQpytboboBXruFWPliZ6N1BwERCc0",
+      authDomain: "blackbooks-ff164.firebaseapp.com",
+      databaseURL: "https://blackbooks-ff164.firebaseio.com",
+      storageBucket: "blackbooks-ff164.appspot.com",
+      messagingSenderId: "1067440345895"
+    };
+    firebase.initializeApp(config);
+  </script>
+   
+   
+  <!-- jQuery library -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>    
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <!-- Bootstrap -->
+  <script src="assets/js/bootstrap.js"></script>
+  <!-- Slick Slider -->
+  <script type="text/javascript" src="assets/js/slick.js"></script>   
+  <!-- Add fancyBox -->        
+  <script type="text/javascript" src="assets/js/jquery.fancybox.pack.js"></script>
+  <!-- Wow animation -->
+  <script type="text/javascript" src="assets/js/wow.js"></script> 
+  <!-- Off-canvas Menu -->   
+  <script src="assets/js/classie.js"></script>
+ 
+  <!-- Custom js -->
+  <script type="text/javascript" src="assets/js/custom.js"></script>
+
+  </body>
+</html>

@@ -1,0 +1,305 @@
+{
+  "filename": "Greek_Tragedy",
+  "stories": [
+    {
+      "_id": 1,
+      "title": "Unsuitable Witness",
+      "story": "A Man in black turns out to be a most unsuitable witness to a murder",
+      "solution": "The man in black is a bugler who saw a woman being killed on the opposite side of the street. Even though he saw everything and probably could identify the murderer he did not come forward as he didn’t want to implicate himself in a crime",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/dark_man.jpg",
+      "imagesource": "Malik Earnest - http://malikearnest.com/",
+      "storysource": "Original"
+    },
+    {
+      "_id": 2,
+      "title": "Globe trotter",
+      "story": "Karl has a name tag hanging around his neck as he travels half way around the world with complete strangers",
+      "solution": "Karl is a child travelling alone to another country. His name is on display so the air crew can address him properly and make him feel more comfortable. When he gets to his destination, a designated person will collect him after identifying themselves with a passport",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/tags.jpg",
+      "imagesource": "Holly Mindrup - https://unsplash.com/@hollymindrup",
+      "storysource": "Original"
+    },
+    {
+      "_id": 3,
+      "title": "A jolly cruise",
+      "story": "Because Alan went on a cruise Martin had to die",
+      "solution": "Alan could have provided an alibi for Martin. As Alan could not be found or contacted, Martin was found guilty of his crime and sentenced to death",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/ferry.jpg",
+      "imagesource": "Linval Ebanks - https://unsplash.com/@ebanks89",
+      "storysource": "Original"
+    },
+    {
+      "_id": 4,
+      "title": "Sing for me",
+      "story": "When Karl stopped singing, Yuri had to run for his life",
+      "solution": "Yuri is a miner and uses Karl, a canary, to detect dangerous gases. The gases would kill the canary before killing the miners, providing a warning to exit the tunnels immediately",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "https://pixabay.com/static/uploads/photo/2015/07/30/11/40/all-saints-867542_960_720.jpg",
+      "imagesource": "https://pixabay.com/en/users/WikimediaImages-1185597",
+      "storysource": "Original"
+    },
+    {
+      "_id": 5,
+      "title": "Free confession",
+      "story": "A man commits a murder and confesses it to three different people. No charges will be made.",
+      "solution": "The three people are his lawyer, his priest and his doctor. ",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/placeholder.png",
+      "imagesource": "Matthew Wiebe - https://unsplash.com/@matthewwiebe",
+      "storysource": "Original"
+    },
+    {
+      "_id": 6,
+      "title": "Unhappy reunion",
+      "story": "When Michael landed at the airport, his family were in tears.",
+      "solution": "Michael is a soldier returning from his tour overseas. Unfortunately, he is returning in a coffin",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/airport_people.jpg",
+      "imagesource": "Negative Space - https://unsplash.com/@negativespace",
+      "storysource": "Original"
+    },
+    {
+      "_id": 7,
+      "title": "Family ties",
+      "story": "Peter and Steve are cousins. A genetical analysis proved them to be brothers. How is that possible?",
+      "solution": "Both parents are twins",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/brother_sister.jpg",
+      "imagesource": "Martin Vorel - http://libreshot.com/",
+      "storysource": "Original - http://www.oddee.com/item_97898.aspx"
+    },
+    {
+      "_id": 8,
+      "title": "Bad luck",
+      "story": "He took a chance and got locked up",
+      "solution": "Monopoly jail",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/clover.jpg",
+      "imagesource": "Irene Dávila - https://unsplash.com/@irenedavila",
+      "storysource": "Original"
+    },
+    {
+      "_id": 9,
+      "title": "Stuck in my head",
+      "story": "It was an earworm that ultimately ruined his marriage",
+      "solution": "A man is constantly humming the same song. He heard it at a concert. Unfortunately his sister in law does the same thing. His wife therefore knows that the two must have gone together. Because they lied about this she gets suspicious and ultimately finds out about their affair",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/bad_marriage.jpg",
+      "imagesource": "https://pixabay.com/en/users/stevepb-282134",
+      "storysource": "Original - https://en.wikipedia.org/wiki/Earworm"
+    },
+    {
+      "_id": 10,
+      "title": "It was the best of times...",
+      "story": "Stephen Mulford killed John Black and Adam Kowalzky gets a big payoff for it",
+      "solution": "Adam Kowalzky is an author writing under the pseudonym of Stephen Mulford. In one of his novels he kills of his hero Derek Black. The book is a big success and Adam earns lots of money with it",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/crows.jpg",
+      "imagesource": "Alex Jones - https://unsplash.com/@alexjones",
+      "storysource": "Original - https://en.wikipedia.org/wiki/List_of_pen_names"
+    }
+  ]
+}

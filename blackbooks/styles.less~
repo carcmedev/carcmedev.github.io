@@ -1,0 +1,4 @@
+@import "http://localhost/shared/components/modules/admin/ratings/assets/less/rating.less";
+@import "tables.less";
+@import "http://localhost/shared/components/modules/admin/tables/responsive/assets/lib/css/footable.core.min.css";
+@import "http://localhost/shared/components/modules/admin/tables/responsive/assets/custom/less/tables-responsive.less";

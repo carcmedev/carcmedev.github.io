@@ -1,0 +1,304 @@
+{
+  "filename": "Dead_Set",
+  "stories": [
+    {
+      "_id": 1,
+      "title": "Special Delivery",	
+      "story": "A man is laying dead in a field. Next to him there is an unopened package.",	
+      "solution": "The man had jumped from a plane but his parachute had failed to open. That is the unopened package.",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/package.jpg",
+      "imagesource": "Joanna Kosinska - http://joannakosinska.com/",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 2,
+      "title": "One too many",
+      "story": "Two people in a room alone. One looks around and realizes he's going to die",
+      "solution": "The two people are Siamese twins. One wakes up, notices the other one has died and realizes he will die soon too.",
+      
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/body_in_room.jpg",
+      "imagesource": "Ryan McGuire - http://www.laughandpee.com/",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 3,
+      "title": "Watery Grave",
+      "story": "A group of corpses are floating in the ocean",
+      "solution": "A group of people were out at sea in a yacht. They decide to go swimming and all jump in the water. When finished they realise they didn't put a ladder over the side and are unable to climb back in",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/ocean_boat.jpg",
+      "imagesource": "Brain & Storm - http://brainandstorm.com/",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 4,
+      "title": "Tropical retreat",
+      "story": "A man in uniform stands on the beach of a tropical island. He takes out a cigarette, lights it, and begins smoking. He takes out a letter and begins reading it. The cigarette burns down between his fingers but he doesn't throw it away. He cries",
+      "solution": "He is a guard / attendant in a leper colony. The letter tells him that he has contracted the disease. The key is the cigarette burning down between his fingers -- leprosy is fairly unique in killing off sensory nerves without destroying motor ability",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/tropical_island.jpg",
+      "imagesource": "Sergio Jara - https://unsplash.com/@sergiojara",
+      "storysource": "Classic - https://en.wikipedia.org/wiki/Leprosy"
+    },
+    {
+      "_id": 5,
+      "title": "Elementary Deduction",	 
+      "story": "A dead body lays in front of a building and it appears to be suicide. A detective looks at the body and heads towards the building. He goes to the first floor, he lights a cigarette, walks towards the window facing the body, opens the window and throws out the cigarette. He then goes to the second floor and repeats the same process. He does the same until he reaches the top floor and then takes the lift to the ground floor. Back at the scene, he informs the team that this is a murder.",
+      "solution": "He has to open each window facing the body himself. If it was suicide, at least one window would have been open so someone else must have closed the window.",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/police_car.jpg",
+      "imagesource": "Matt Popovich - https://twitter.com/mpopv",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 6,
+      "title": "Shoes to die for",
+      "story": "A woman buys a new pair of shoes, goes to work, and dies.",
+      "solution": "The woman is the assistant to a circus knife-thrower. She stands in front of a target as knives are thrown around her. The new shoes have higher heels than she normally wears so she her head is now where the knife would usually land.",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/shoes.jpg",
+      "imagesource": "Redd Angelo - https://www.instagram.com/reddangelo",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 7,
+      "title": "Spring Hike",
+      "story": "On a bright spring day a group of hikers find a body in the mountains. There is a rifle nearby although the cause of death is not from a gun shot.",
+      "solution": "The man was a hunter. He was hunting during the winter, fired his shot and caused an avalanche which covered his body until the spring thaw.",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/mountain_hike.jpg",
+      "imagesource": "Zach Betten - https://unsplash.com/@bettenz",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 8,
+      "title": "Tune In, Turn Off",
+      "story": "A man is driving his car. He turns on the radio, then pulls over to the side of the road and shoots himself.",
+      "solution": "A radio DJ decides to kill his wife. To establish his alibi, he puts a prerecorded record on the air, quickly drives home, and kills her. On the way back, he turns on his show and discovers the recording is skipping.",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/car_radio.jpg",
+      "imagesource": "Clem Onojeghuo - https://www.instagram.com",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 9,
+      "title": "Car Jacked",	
+      "story": "Jack is found shot to death in the front seat of his car. A gun lies out of his reach in the back seat. All the windows are closed and the doors are locked. There are no bullet holes anywhere on the car",
+      "solution": "The car is a convertible and the top was down. The murderer shot Jack and dropped the gun into the back seat of the car",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/car_dash.jpg",
+      "imagesource": "Benjamin Child - https://twitter.com/benjaminchild",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 10,
+      "title": "Lethal Premonition",
+      "story": "A man walks down the stairs. He stops and knows his wife is dead.",	
+      "solution": "He is leaving a hospital after visiting his wife who is on a life support when the power goes out. The emergency lights do not come on so he knows the emergency backup generator is not working either",
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/stairs.jpg",
+      "imagesource": "Paweł Bukowski - https://unsplash.com/@bukowski",
+      "storysource": "Classic"
+    }
+  ]
+}

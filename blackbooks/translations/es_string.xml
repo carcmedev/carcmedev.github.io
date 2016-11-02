@@ -1,0 +1,209 @@
+<resources>
+
+    <string name="app_name">BlackBooks</string>
+    <string name="action_settings">Ajustes</string>
+
+    <!--IAB strings-->
+    <string name="free">Gratis</string>
+
+
+    <!--Rate Responses-->
+    <string name="strRateResultNegative">Ohhh A lo mejor la próxima vez</string>
+    <string name="strRateResultPositive">Muchas gracias. Agradecemos tu colaboración</string>
+
+    <!-- Share Strings-->
+    <string name="shareChooserTitle">Compartir en</string>
+    <string name="strShareSubject">@string/app_name</string>
+    <string name="strShareBody">"BlackBooks, el juego de adivinanzas para grupos. "</string>
+    <string name="strShareDownloadMsg">"Descargar ahora: "</string>
+
+    <!-- Feedback Strings-->
+    <string name="feedbackSubject">Sugerencias para BlackBooks</string>
+    <string name="feedbackBody">Hola, yo tengo una sugerencia...</string>
+    <string name="feedbackChooserTitle">Envía tus comentarios a</string>
+
+    <!-- Strings related to Settings -->
+
+
+    <!--FaceBook strings-->
+    <string name="str_facebook_login">Conectarse a traves de Facebook</string>
+    <string name="str_pinterest_login">Conectarse a traves de Pinterest</string>
+    <string name="str_facebook_anon">Anónimo</string>
+
+    <!--Email Strings-->
+    <string name="EmailerHeading">Crea tu propia historia</string>
+    <string name="hint_name">Nombre completo</string>
+    <string name="hint_email">Email (opcional)</string>
+    <string name="err_msg_name">Escribe tu nombre completo</string>
+    <string name="err_msg_story">Introduce una historia</string>
+    <string name="err_msg_title">Introduce un título</string>
+    <string name="err_msg_solution">Introduce una solución</string>
+    <string name="pick_image_intent_text">Seleccionar origen de la imagen</string>
+
+    <!--Slides-->
+    <string name="str_set_story_solved">Marcar como resuelto</string>
+    <string name="str_set_story_unsolved">Quitar de resueltos</string>
+    <string name="str_set_story_favorite">Añadir a favoritos</string>
+    <string name="str_set_story_unfavorite">Quitar de favoritos</string>
+    <string name="str_set_story_share">Comparte esta historia</string>
+    <string name="str_set_story_already_shared">Ya lo has compartido</string>
+    <string name="str_close_context_menu">Cerrar el menú</string>
+    <string name="str_exit_story">Salir de la historia</string>
+    <string name="exit">Salida</string>
+    <string name="really_exit">Estás seguro de que quieres salir?</string>
+    <string name="blackbooks_welcome">Bienvenido a BlackBooks</string>
+    <string name="lateral_thinking_idea">BlackBooks presenta una serie de adivinanzas situadas en contextos extraños.\n\nTu recibes algo de informacion y tienes que resolver el problema.\n\nTienes que ser abierto de mente, flexible y creativo en tus preguntas para asociar la información y pistas que recibas.\n\nUna vez que descubras la solución, te dará rabia no haberte dado cuenta antes</string>
+
+    <string name="idea_slide_1">Pensar lateralmente es la habilidad de pensar de una forma creativa, el jugador tendrá que ir más allá, usando su imaginación para solucionar problemas observándolos desde distintas perspectivas.\n\nEn BlackBooks tendrás que descartar lo obvio, descartando los modos tradicionales de pensamiento y lo preconcebido.</string>
+    <string name="idea_slide_2">Blackbooks es una serie de juegos designados para ser jugados en grupos de 3 o más jugadores. Un jugador, que sabe la respuesta, lee en voz alta y los demás deberán hacer preguntas a las que sólo puede responder sí, no, o irrelevante</string>
+    <string name="content_title">Muchos contenidos nuevos</string>
+    <string name="content_slide">Blackbooks realizará actualizaciones automáticas de los contenidos y te avisará cuando éstas se encuentren disponibles.</string>
+    <string name="howto_catalogueTitle">Elige del catálogo</string>
+    <string name="howtoCatalogue">Elige la sere de preguntas que te apetezcan preguntas.</string>
+    <string name="howtoGalleryTitle">y consigue un poco de información extra</string>
+    <string name="howtoGallery">Antes de bajártela, lee información sobre los juegos.</string>
+    <string name="howtoStoryTitle">Iniciar edición</string>
+    <string name="howtoStory">Elige una pregunta de los juegos sin resolver, vete a los favoritos o elige uno que ya hayas resuelto previamente.</string>
+    <string name="howtoRiddleTitle">y empieza con las preguntas</string>
+    <string name="howtoRiddle">Lee el juego y selecciona la solución para leerla. Cuando lo hayas entendido estarás preparado para responder a las preguntas de tis amigos.</string>
+    <string name="howtoContextMenuTitle">Busca la solución</string>
+    <string name="howtoContextMenu">Marca el juego como resuelto, guárdalo en favoritos o compártelo.</string>
+    <string name="howtoCreateOwnTitle">También puedes crear tus propios juegos</string>
+    <string name="howtoCreateOwn">Tienes una idea para un juego. Rellena el formulario y envianoslo y lo publicaremos junto a tu nombre y foto.</string>
+
+    <string name="title">título</string>
+    <string name="summary">Resumen</string>
+    <string name="purchase">Comprar</string>
+    <string name="scenario">Argumento</string>
+    <string name="solution">Solución</string>
+    <string name="credits">Copyright</string>
+    <string name="imageDesign">"Image Design: "</string>
+
+    <string name="source">"Fuente de la historia: "</string>
+    <string name="title_hint">Tu titulo aquí</string>
+    <string name="scenario_hint">Escribe tu historia aquí</string>
+    <string name="solution_hint">Y la solución aquí</string>
+    <string name="own_story_credit_desc">A todas las historias se les concederá derechos de autor. Rellena los datos en el formulario, adjunta una foto y acepta las consiciones: http://carc.me/blackbooks/conditions.html</string>
+    <string name="conditions">Acepto las condiciones</string>
+
+    <string name="not_connected_to_network">En este momento no estás conectado a internet</string>
+    <string name="connection_error">"Ha habido un problema al compartir "</string>
+    <string name="you_shared">"Has compartido tu juego "</string>
+
+    <string name="updating_catalogue_body">Se ha detectado una nueva versión, sigue jugando y recibirás una notificación cuando se termine de instalar</string>
+    <string name="updating_catalogue_title">Actualizando el catálogo</string>
+    <string name="new_collections_title">Nuevas colecciones</string>
+    <string name="new_collections_body">Hay disponibles nuevas colecciones. Te gustaría verlas ahora?</string>
+    <string name="no_thanks">No gracias</string>
+    <string name="ok">OK</string>
+    <string name="no_network_title">Ninguna red disponible</string>
+    <string name="no_network_body">Puede que haya nuevas imágenes y colecciones disponibles. Se comprobará automáticamente en cuando haya conexión a la red</string>
+    <string name="offline">Desconectado</string>
+    <string name="menu_create_own">Crea tu propia historia</string>
+    <string name="menu_howto_play">Cómo funciona el juego</string>
+    <string name="menu_welcome">Qué es BlackBooks</string>
+    <string name="rate">Valora</string>
+    <string name="share">Comparte BlackBooks</string>
+    <string name="feedback">Envíanos tu opinión</string>
+    <string name="communicate">Social Media</string>
+    <string name="premium">Premium Account</string>
+    <string name="menu_intro">Introducción</string>
+    <string name="menu_Interact">Interact</string>
+    <string name="collection_is_free">Esta colección es gratuita, selecciona la imagen para ver los detalles</string>
+    <string name="launch_collection">Descarga la coleccion</string> 
+    <string name="collection_owned">Ya tienes esta colección</string>
+    <string name="collection_available">Esta colección está disponible para comprar, seleccioa la imagen para ver los detalles</string>
+    <string name="owned">Tener</string>
+
+
+    <string name="already_premium">Ya eres jugador Premium</string>
+    <string name="sku_cost_get_error">El precio no está disponible en este momento</string>
+    <string name="retrieve_sku">"Recuperando el material&#8230; "</string>
+    <string name="sku_billing_dlg_error_title">Error de pago</string>
+    <string name="sku_billing_dlg_error_body">No puedes acceder a la Play Store</string>
+
+    <!--<string name="share_facebook">Compartir en Facebook</string>-->
+
+    <string name="loading">Cargando&#8230;</string>
+    <string name="touch_for_details">Selecciona para ver los detalles&#8230;</string>
+    <string name="language">Idioma</string>
+    <string name="lateral_thinking">Pensamiento lateral</string>
+
+    <string name="get_all_collections">Consigue todas las colecciones actuales y futuras mediante un solo pago.</string>
+    <string name="cost_increase">El precio de la versión Premium subirá en cuanto se publiquen nuevas colecciones.</string>
+    <string name="purchase_premium">Puedes acceder a la versión Premium de BlackBooks apretando en el botón de abajo.</string>
+    <string name="premium_yours_for">La versión Premium cuesta ahora:</string>
+    <string name="buy">Comprar</string>
+    <string name="unsolved">Sin resolver</string>
+    <string name="favorite">Favoritos</string>
+    <string name="solved">Resueltos</string>
+    <string name="thankyou_for_upgrade">Gracias por la compra!</string>
+    <string name="problem_getting_inventory">Problemas para conseguir el inventario!</string>
+    <string name="show_again">Enseñar otra vez</string>
+    <string name="send_email">Enviando el email&#8230;</string>
+    <string name="install_instagram">Instalar Instagram</string>
+    <string name="install_pinterest">Instalar Pinterest</string>
+    <string name="install_twitter">Instalar Twitter</string>
+
+    <string name="no_instagram">Instagram no encontrado en este aparato, quieres instalarlo ahora?</string>
+    <string name="no_pinterest">Pinterest no encontrado en este aparato, quieres instalarlo ahora?</string>
+    <string name="no_twitter">Twitter no encontrado en este aparato, quieres instalarlo ahora?</string>
+
+    <string name="app_desc">Pensamiento lateral e imágenes impactantes para desafiar tus ideas preconcebidas</string>
+
+    <string name="brain_games">Desafia tus ideas preconcebidas</string>
+    <string name="lateral_thinking_summary">Resumen sobre pensamiento lateral</string>
+    <string name="guide_to_blackbooks">Instrucciones para Bleckbooks</string>
+    <string name="menu_create_own_desc">Envia tus propias ideas y fotos</string>
+    <string name="menu_premium_desc"><![CDATA[Recibe todas las historias actuales y futuras]]></string>
+    <string name="menu_language_desc">Cambia el idioma</string>
+    <string name="menu_contact">Contacto</string>
+    <string name="menu_contact_desc">Tienes una sugerencia?</string>
+    <string name="menu_rate_desc">Danos algunas estrellas</string>
+
+    <string name="menu_update_check">Comprueba si hay nuevas versiones</string>
+    <string name="menu_update_check_desc">Comienza la busqueda de nuevas versiones</string>
+
+    <string name="cancel">Cancelar</string>
+    <string name="download_warning_title">Descarga nuevo contenido</string>
+
+    <string name="download_warning_body">Blackbooks va a descargar una serie de imágenes. Seleccione OK para continuar o accede a WiFi.</string>
+
+    <string name="serious_error_title">Problemas serios</string>
+    <string name="serious_error_body">Se detecto un error en la base de datos y tiene que reiniciarse.</string>
+
+
+    <!--STILL TO DO-->
+
+
+    <string name="discard_changes">Discard changes?</string>
+    <string name="pref_language">Preferred Language</string>
+
+    <string name="pref_language_body" translatable="false">If your preferred language is not supported yet, BlackBooks will default to English</string>
+    <string name="log_out">Log out</string>
+    <string name="unknown">Unknown</string>
+
+    <!--Override social media strings-->
+    <string name="com_facebook_loginview_log_out_button">@string/log_out</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_long" translatable="false">@string/facebook</string>
+    <string name="tw__login_btn_txt" translatable="false">@string/twitter</string>
+
+    <string name="touch_to_share">Touch the image to share the story on your favourite social media.</string>
+    <string name="touch_to_decode">Encoded for security. Touch to decode.</string>
+    <string name="add_your_rating">Add a story rating. You decide the best and we create stories in that style.</string>
+    <string name="secret_solution">Secret Solution</string>
+
+    <string name="cache_image_title">Cache Images</string>
+    <string name="cache_image_body">Not all images are in cache. Would you like to download the remaining images?\n\nBlackBooks will run quicker and smoother with the cache images</string>
+    <string name="net_image_req_title">Network Image!</string>
+    <string name="net_image_req_body1">Cache image required to perform this action.</string>
+    <string name="net_image_req_body2">Go to the start screen to cache images</string>
+    <string name="net_image_req_body3">Attempting to fetch it now</string>
+    <string name="data_warning_title">Show Warning Again</string>
+    <string name="data_warning_body">Do you want to be reminded when using data</string>
+    <string name="remind">Remind</string>
+    <string name="never_show">Never Show</string>
+
+
+</resources>

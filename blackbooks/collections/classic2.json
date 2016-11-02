@@ -1,0 +1,145 @@
+{
+  "filename": "Classic2",
+  "stories": [
+    {
+      "_id": 1,
+      "title": "Visually Impaired",
+      "story": "A woman wakes up at night to get some water. She turns off the light and goes back to bed. The next morning she looks out the window, screams, and kills herself.",
+      "solution": "She is the lighthouse keeper. She turned off the lighthouse light during the night and a ship crashes on the rocks. Seeing this the next morning, she realizes what has happened and commits suicide.",
+
+      "de_title": "Tödliche Gewässer",
+      "de_story": "Eine Frau wacht mitten in der Nacht auf und holt sich aus der Küche ein Glas Leitungswasser. Sie lischt das Licht und geht wieder ins Bett. Am nächsten Morgen sieht sie aus dem Fenster und nimmt sich das Leben.",
+      "de_solution": "Die Frau ist eine Leuchtturmwächterin. Sie hat in der Nacht aus Versehen das Licht des Leuchtturms ausgemacht und ein Schiff ist aus diesem Grund an den Felsen zerschellt. Als sie beim Blick aus dem Fenster am nächsten Morgen erkennt, was geschehen ist, begeht sie Selbstmord.",
+
+      "picture": "http://carc.me/blackbooks/img/glasses.jpg",
+      "imagesource": "Dmitry Ratushny - https://unsplash.com/@ratushny",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 2,
+      "title": "The Long Way Up",
+      "story": "Every weekday Ronald takes the elevator down from his penthouse apartment to go to work. When he returns, he sometimes takes the elevator all the way up but usually takes the elevator to the 7th floor and uses the stairs from there. He hates walking so why does he do this and why only sometimes?",
+      "solution": "Ronald is a dwarf. Each day he looks out the window and, if he see rain, grabs an umbrella which he uses to press the penthouse lift button. On the days when the weather is clear, he has no umbrella so can not reach the penthouse button.",
+      
+      "de_title": "Der lange Weg nach oben",
+      "de_story": "An Wochentagen nimmt Ronald auf dem Weg zur Arbeit den Fahrstuhl, der ihn aus seinem Penthouse nach unten in die Eingangshalle seines Wohnblockes fährt. Auf dem Heimweg fährt er mit dem Fahrstuhl manchmal nach ganz oben in seine Wohnung. An den meisten Tagen jedoch fährt Ronald nur bis in die siebente Etage und nimmt von dort die Treppen. Warum?",
+      "de_solution": "Ronald ist kleinwüchsig. Jeden Tag schaut er aus dem Fenster, um zu sehen, ob es wohl regnen wird. Ist der Himmel bewölkt, schnappt er sich einen Regenschirm, welchen er später zur Hilfe nimmt, um an den Knopf für die oberste Etage zu gelangen. An Tagen ohne Regenschirm erreicht Ronald aufgrund seiner Größe lediglich den Knopf für die siebente Etage und muss den Rest des Weges Treppen steigen.",
+
+      "picture": "http://carc.me/blackbooks/img/city_block.jpg",
+      "imagesource": "Dmitry Ratushny - https://unsplash.com/@ratushny",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 3,
+      "title": "Exotic Lunch",
+      "story": "Laura buys some penguin meat, goes home and  cooks it. She takes a bite before killing herself.",
+      "solution": "Laura and her son were on a flight that crashed in the Arctic. The pilot gave her what he said was penguin meat but was actually her son who died in the crash. When she tastes penguin, she realises it was her son and not penguin she had eaten back then.",
+
+      "de_title": "Exotisches Mittagessen",
+      "de_story": "Laura kauft sich in einem Delikatessenladen Pinguinfleisch, geht nach Hause und bereitet es zu. Sie nimmt einen Bissen und begeht daraufhin Selbstmord.",
+      "de_solution": "Laura stürzte einst mit ihrem Flugzeug über der Antarktis ab. Einer der Überlebenden bot ihr Fleisch an, von dem er behauptet hatte, dass es von einem toten Pinguin stamme. Als die Frau jedoch schließlich echtes Pinguinfleisch isst, bemerkt sie, dass der Geschmack ganz anders ist. Laura realisiert, dass der andere Passagier ihr das Fleisch ihres verstorbenen Sohnes, der bei dem Absturz ums Leben kam, gegeben haben musste. Die drei waren die einzigen an Bord der Maschine.",
+
+      "picture": "http://carc.me/blackbooks/img/penguin.jpg",
+      "imagesource": "Jay Ruzesky - https://unsplash.com/@wolsenburg",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 4,
+      "title": "A Rude Awakening",
+      "story": "A man is sitting in bed. He makes a phone call, saying nothing when the other end answers and then hangs up and goes to sleep.",
+      "solution": "He is in a hotel and is unable to sleep because the man in the adjacent room is snoring. He calls the room next door (from his own room number he can work out the neighbor telephone number). The snorer wakes up, answers the phone. The first man hangs up without saying anything and goes to sleep before the snorer gets back to sleep.",
+
+      "de_title": "Ein böses Erwachen",
+      "de_story": "Ein Mann sitzt aufrecht in seinem Bett. Er ruft eine Telefonnummer an, sagt nichts, hängt auf und legt sich daraufhin schlafen.",
+      "de_solution": "Der Mann befindet sich in einem Hotel. Der Gast im Nachbarzimmer schnarcht so laut, dass er nicht schlafen kann. Also ruft er das Zimmer, dessen Telefonnummer er sich anhand der eigenen Zimmernummer erschließen kann, an. Als der Hörer abgenommen wird und der Nachbar ganz offensichtlich geweckt wurde, sagt er nichts, hängt wieder auf und legt sich schnell schlafen.",
+
+      "picture": "http://carc.me/blackbooks/img/telephone.png",
+      "imagesource": "Daria Nepriakhina - https://stocksnap.io/author/652",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 5,
+      "title": "Legal Alien",
+      "story": "A man with no passport visits over thirty foreign countries in one day. He is welcomed in each country and leaves each one of his own accord.",
+      "solution": "He is a courier delivering packages to the foreign embassies in his country. The embassy belongs to the country of the embassy, not the country it is based.",
+
+      "de_title": "Ganz ohne Visa",
+      "de_story": "Ein Mann, der nicht einmal im Besitz eines Passes ist, besucht an nur einem Tag mehr als 30 verschiedene Länder. Jedes der Länder verlässt er nach eigenem Wunsch und ohne jegliches Aufsehen.",
+      "de_solution": "Der Mann ist von Beruf Kurier. Seine Firma beliefert bevorzugt Botschaften. Diese gehören genau genommen dem Land, aus dem sie stammen und nicht dem Land, in dem sie stationiert sind, an.",
+
+      "picture": "http://carc.me/blackbooks/img/passport.png",
+      "imagesource": "Sebastian Pichler - https://stocksnap.io/author/14834",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 6,
+      "title": "Date Night",	
+      "story": "A married couple goes to a movie. During the movie the husband strangles the wife. He is able to get her body home without attracting any attention.",
+      "solution": "The movie is at a drive-in theater.",
+
+      "de_title": "Ein tödliches Date",
+      "de_story": "Ein verheiratet Ehepaar geht ins Kino. Während des Films erwürgt der Ehemann seine Frau. Ihre Leiche schafft er daraufhin ohne Probleme und Aufsehen nach Hause.",
+      "de_solution": "Das Paar besuchte ein Autokino.",
+
+      "picture": "http://carc.me/blackbooks/img/cinema.jpg",
+      "imagesource": "Lloyd Dirks - https://unsplash.com/@lloydaleveque",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 7,
+      "title": "Dead end",
+      "story": "A young woman has just passed her driving test. As she leaves the driving centre a police officer watches her turn into a one-way street and travels down it. The police officer takes no action!",
+      "solution": "She is walking down the street.",
+
+      "de_title": "Einbahnstraße",
+      "de_story": "Eine junge Frau hat gerade eben ihre Führerscheinprüfung bestanden. Als sie das DEKRA-Gebäude verlässt, biegt sie falsch herum in eine Einbahnstraße ein. Ein Polizist beobachtet das Ganze und unternimmt gar nichts. Warum?",
+      "de_solution": "Die Frau war zu Fuß und nicht im Auto.",
+
+      "picture": "http://carc.me/blackbooks/img/oneway2.jpg",
+      "imagesource": "Jamie Street - http://jamie.st",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 8,
+      "title": "Cheers",
+      "story": "A man walks into a bar and asks the barman for a glass of water. The barman pulls out a gun and points it at the man. The man says 'Thank you' and walks out.",
+      "solution": "The barman recognized that the man had hiccups and drew the gun in order to give him a shock. It worked and cured the hiccups so the water was no longer needed.",
+
+      "de_title": "Prost!",
+      "de_story": "Ein Mann betritt eine Kneipe und fragt den Barmann nach einem Glas Wasser. Dieser zieht plötzlich eine Pistole hervor und richtet sie auf den Gast. Der Mann sagt „Danke“ und verlässt die Bar wieder.",
+      "de_solution": "Der Barmann hatte erkannt, dass der Gast an Schluckauf litt und zog die Pistole, um ihm einen Schreck einzujagen. Der Trick funktionierte, der Schluckauf verschwand und das Wasser war nicht länger notwendig.",
+
+      "picture": "http://carc.me/blackbooks/img/glass_water.jpg",
+      "imagesource": "Jan Vašek - http://jeshoots.com/",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 9,
+      "title": "Quick quick slow",
+      "story": "A man is running along a corridor holding a sheet of paper. The lights flicker and the man stops running.",
+      "solution": "The man is delivering a pardon and the flicker of the lights indicates that the person to be pardoned has just been electrocuted.",
+
+      "de_title": "Plötzlicher Sinneswandel",
+      "de_story": "Ein Mann läuft schnell einen Korridor entlang. In seiner Hand hält er ein Blatt Papier. Als das Licht im Flur plötzlich flackert, bremst er ab und kehrt um.",
+      "de_solution": "Bei dem Blatt Papier handelt es sich um eine schriftliche Begnadigung. Das Flackern des Lichtes zeigt jedoch, dass der Gefangene bereits auf dem elektrischen Stuhl hingerichtet wurde.",
+
+      "picture": "http://carc.me/blackbooks/img/corridor.jpg",
+      "imagesource": "Matthew Wiebe - https://unsplash.com/@matthewwiebe",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 10,
+      "title": "Special Delivery",
+      "story": "One day a man received a parcel in the post. Carefully packed inside was a human arm. He examined it, repacked it and then sent it on to another man. The second man also carefully examined the arm before taking it to the woods and burying it.",
+      "solution": "The three men had been stranded on a deserted island. Desperate for food, they had agreed to amputate their left arms in order to eat them. They swore an oath that each would have his left arm cut off. One of them was a doctor and he cut the arms off his two companions. They were then rescued. But his oath was still binding so he later had to have his arm amputated and sent to his friends.",
+
+      "de_title": "Eine ganz besondere Zustellung",
+      "de_story": "Eines Tages erhält ein Mann in der Post eine ganz besondere Zustellung. In dem Paket findet er einen abgetrennten Arm. Er schaut sich den Arm ganz genau an, verpackt ihn erneut und schickt ihn an eine weitere Adresse. Dort angekommen, schaut sich ein zweiter Mann den Arm ganz genau an. Er nimmt den abgetrennten Arm und vergräbt ihn schließlich im Wald.",
+      "de_solution": "Eines Trage strandeten drei Männer auf einer einsamen Insel. Aus Verzweiflung und Hunger beschlossen sie, sich jeweils den linken Arm zu amputieren und schließlich zu essen. Einer der Männer war ein Arzt. Er führte die Amputationen durch. Als sie schließlich gerettet wurden, hatte der Arzt nach wie vor noch beide Arme. Um seinen Schwur zu halten, ließ er sich seinen linken Arm schließlich zurück in der Zivilisation amputieren und schickte ihn zum Beweis zu seinen Freunden.",
+
+      "picture": "http://carc.me/blackbooks/img/human_arm.jpg",
+      "imagesource": "Simon Wijers - https://unsplash.com/@simonwijers",
+      "storysource": "Classic"
+    }
+  ]
+}

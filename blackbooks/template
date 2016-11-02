@@ -1,0 +1,307 @@
+{
+  "filename": "Classic2",
+  "stories": [
+    {
+      "_id": 1,
+      "title": "”,
+      "story": "”,
+      "solution": "”,
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/placeholder.png",
+      "imagesource": "http://cdn.tinybuddha.com",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 2,
+      "title": "”,
+      "story": "”,
+      "solution": "”,
+
+      
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/placeholder.png",
+      "imagesource": "http://www.danielstepanek.co.uk/",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 3,
+      "title": "”,
+      "story": "”,
+      "solution": "”,
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/placeholder.png",
+      "imagesource": "",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 4,
+      "title": "”,
+      "story": "”,
+      "solution": "”,
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/placeholder.png",
+      "imagesource": "",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 5,
+      "title": "”,
+      "story": "”,
+      "solution": "”,
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/placeholder.png",
+      "imagesource": "",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 6,
+      "title": "”,
+      "story": "”,
+      "solution": "”,
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/placeholder.png",
+      "imagesource": "http://www.therichest.com/",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 7,
+      "title": "”,
+      "story": "”,
+      "solution": "”,
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/placeholder.png",
+      "imagesource": "",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 8,
+      "title": "”,
+      "story": "”,
+      "solution": "”,
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/placeholder.png",
+      "imagesource": "",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 9,
+      "title": "”,
+      "story": "”,
+      "solution": "”,
+
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/placeholder.png",
+      "imagesource": "http://abstract.desktopnexus.com",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 10,
+      "title": "”,
+      "story": "”,
+      "solution": "”,
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/placeholder.png",
+      "imagesource": "",
+      "storysource": "Classic"
+    }
+  ]
+}

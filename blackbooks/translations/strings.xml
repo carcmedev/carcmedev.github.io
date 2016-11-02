@@ -1,0 +1,141 @@
+<resources>
+    <!-- THESE ARE COMMENTS - CAN BE IGNORED -->
+    <!-- WHICH BITS TO TRANSLATE-->
+    <!-- CHANGE THE TEXT BETWEEN THE ">" AND  "<" -->
+    <!-- IGNORE ANYTHING WITH "translatable" IN IT-->
+     
+
+    <string name="app_name">Black Books</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <!--IAB strings-->
+    <string name="free">Free</string>
+
+
+    <!--Rate Responses-->
+    <string name="strRateResultNegative">Awwwww… another time maybe</string>
+    <string name="strRateResultPositive">Thank you, it\'s much appreciated</string>
+
+    <!-- Share Strings-->
+    <string name="shareChooserTitle">Share via</string>
+    <string name="strShareSubject">@string/app_name</string>
+    <string name="strShareBody">BlackBooks, the riddle game for groups</string>
+    <string name="strShareDownloadMsg">Download now:</string>
+    <string name="strShareDownloadLink">http://market.android.com/details?id=</string>
+
+    <!-- Feedback Strings-->
+    <string name="feedbackSubject">BlackBooks suggestion</string>
+    <string name="feedbackBody">Hi,\nI have a suggestion....</string>
+    <string name="feedbackChooserTitle">Send Feedback Via</string>
+
+    <!-- Strings related to Settings -->
+
+
+    <!--FaceBook strings-->
+    <string name="facebook_app_id" translatable="false">131038010630327</string>
+    <string name="str_facebook_login">Log in with Facebook</string>
+    <string name="str_facebook_anon">Anonymous</string>
+
+    <!--Email Strings-->
+    <string name="EmailerHeading">Create Story</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_email">Email (optional)</string>
+    <string name="err_msg_name">Enter your full name</string>
+    <string name="err_msg_story">Enter a story</string>
+    <string name="err_msg_title">Enter a title</string>
+    <string name="err_msg_solution">Enter a solution</string>
+    <string name="pick_image_intent_text">Select image source</string>
+    <string name="image_mime_type" translatable="false">image/*</string>
+
+    <!--Slides-->
+    <string name="str_set_story_solved">Set to solved</string>
+    <string name="str_set_story_unsolved">Remove from solved</string>
+    <string name="str_set_story_favorite">Add to favorites</string>
+    <string name="str_set_story_unfavorite">Remove from favorites</string>
+    <string name="str_set_story_share">Share this story</string>
+    <string name="str_set_story_already_shared">You\'ve shared this already</string>
+    <string name="str_close_context_menu">Close menu</string>
+    <string name="str_exit_story">Exit the story</string>
+    <string name="exit">Exit</string>
+    <string name="really_exit">Do you really want to quit?</string>
+    <string name="blackbooks_welcome">Welcome to BlackBooks</string>
+    <string name="lateral_thinking_idea">BlackBooks presents a series of thinking puzzles set in strange situations.\n\nYou are given limited information and try to find the explanation to the puzzle.\n\nYou need to be open-minded, flexible and creative in your questioning and able to put lots of different clues and pieces of information together.\n\nOnce you\'ve pieced it all together, you\'ll want to kick yourself for not working it out sooner</string>
+    <string name="idea_slide_1">Lateral thinking, is the ability to think creatively, or "outside the box" as it is sometimes referred to in business, to use your inspiration and imagination to solve problems by looking at them from unexpected perspectives.\n\nBlackBooks is about discarding the obvious, leaving behind traditional modes of thought, and throwing away preconceptions.</string>
+    <string name="idea_slide_2">BlackBooks is a series of puzzles designed to be played in groups of 3 or more. Read the scenario then answer questions... using only \'Yes\', \'No\' or \'Irrelevant\'</string>
+    <string name="content_title">Lots of New Content</string>
+    <string name="content_slide">BlackBooks will automatically update the collections and let you know when new content is available.</string>
+    <string name="howto_catalogueTitle">Select from the catalogue</string>
+    <string name="howtoCatalogue">Choose which series of questions suit your mood.</string>
+    <string name="howtoGalleryTitle">and get a little extra information</string>
+    <string name="howtoGallery">Read a little information about the collection before choosing to launch.</string>
+    <string name="howtoStoryTitle">Launch the collection</string>
+    <string name="howtoStory">Pick a question from the unsolved list, go to your favorites or choose previously solved one.</string>
+    <string name="howtoRiddleTitle">and start with the questions</string>
+    <string name="howtoRiddle">Read the scenario, answer the questions and then press the solution to reveal the answer.</string>
+    <string name="howtoContextMenuTitle">Complete the stories</string>
+    <string name="howtoContextMenu">Mark the question as solved, save it to favorites or even share it on Facebook</string>
+    <string name="howtoCreateOwnTitle">and add your own</string>
+    <string name="howtoCreateOwn">Have an idea of your own? Fill in the details and post it over. You\'ll get full credit for any story and photo you send in.</string>
+
+    <string name="title">Title</string>
+    <string name="summary">Summary</string>
+    <string name="purchase">Purchase</string>
+    <string name="scenario">Scenario</string>
+    <string name="solution">Solution</string>
+    <string name="credits">Credits</string>
+    <string name="imageDesign">Image Design:</string>
+    <string name="carcWebLink">http://carc.me</string>
+    <string name="source">Story Source:</string>
+    <string name="title_hint">Your title here</string>
+    <string name="scenario_hint">Write your story here</string>
+    <string name="solution_hint">And the solution here</string>
+    <string name="own_story_credit_desc">Full credit given for all stories submitted. Fill in the fields, add an image and accept the conditions: http://carc.me/blackbooks/conditions.html</string>
+    <string name="conditions">I accept the conditons</string>
+    <!--<string name="titleSources">Sources</string>-->
+    <!--<string name="titleImageDesign">Image Design:</string>-->
+    <string name="not_connected_to_network">You are not online at the moment</string>
+    <string name="connection_error">"There was a problem sharing "</string>
+    <string name="you_shared">"You shared "</string>
+
+    <string name="updating_catalogue_body">A new catalogue version detected. Please keep doing what you were doing and a notification will be shown here when the update completes</string>
+    <string name="updating_catalogue_title">Updating the Catalogue</string>
+    <string name="new_collections_title">New collections</string>
+    <string name="new_collections_body">New collections are available. Would you like to view them now?</string>
+    <string name="no_thanks">No thanks</string>
+    <string name="ok">Ok</string>
+    <string name="no_network_title">No Network Available</string>
+    <string name="no_network_body">Additional collections and images may be available. This will be check automatically when a network connection is detected</string>
+    <string name="offline">Offline</string>
+    <string name="menu_create_own">Create Own Story</string>
+    <string name="menu_howto_play">How to Play</string>
+    <string name="menu_welcome">What is BlackBooks</string>
+    <string name="rate">Rate</string>
+    <string name="share">Share</string>
+    <string name="feedback">Send Feedback</string>
+    <string name="communicate">Communicate</string>
+    <string name="menu_debug">DEBUG - clear sharedPrefs</string>
+    <string name="premium">Premium account</string>
+    <string name="menu_intro">Introduction</string>
+    <string name="menu_Interact">Interact</string>
+    <string name="collection_is_free">This collection is free. Touch image for details</string>
+    <string name="launch_collection">Launch Collection</string>
+    <string name="collection_owned">You own this collection</string>
+    <string name="collection_available">This collection is available for purchase. Touch image for details</string>
+    <string name="owned">Owned</string>
+
+
+    <!--Google Billing - maybe shift this to own server-->
+    <string name="base64EncodedPublicKey">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgplPNCSUplv2Ig6nxe/RIMCdM5KcuaZOkHo9LGJrAdud0Cr1MdSLU4CaTI2dIBbtqucUZI3Y23BXEm0VbXF5snzzV5ArcGkEBZ3X45O5mNI0rJCqY0yiuB4jbwYjWhJm1rQD8n9YmONZsZMs7cb3BRUuFD9L5SdY3WGYvC78FID0wRDgZbDmBTb3VXiAyTjRpy96Ogt92UojhJLIMhhPUyD7uxt7yAtPzulR76knPgEU3lJtkV2c75BUIX+DVVljheE4eNiia9PlgywVH/wVz5jztJT1RRWkU3MkKyvu68SR0VihOUY4F76p62lxMoL5VACZTEwWdieRa5IHB3wiGQIDAQAB</string>
+    <string name="already_premium">Already upgraded to premium</string>
+    <string name="sku_cost_get_error">Can not get the cost at the moment</string>
+    <string name="retrieve_sku">"Retriving item... "</string>
+    <string name="sku_billing_dlg_error_title">Billing Error</string>
+    <string name="sku_billing_dlg_error_body">Could not access the Play Store</string>
+
+
+</resources>

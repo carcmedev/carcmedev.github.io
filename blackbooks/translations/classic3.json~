@@ -1,0 +1,305 @@
+{
+  "filename": "Classic3",
+  "stories": [
+    {
+      "_id": 1,
+      "title": "Not a drop to drink",
+      "story": "A man dies of thirst in his own home.",
+      "solution": "His home is a houseboat and he has run out of water while on an extended cruise.",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/water_flows_glass.jpg",
+      "imagesource": "Martin Vorel - http://libreshot.com/",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 2,
+      "title": "Speed dash",
+      "story": "A car races through the streets. It stops and a man gets out. When he returns, his wife is dead and there was a stranger in the car.",
+      "solution": "They are about to have a baby and drove to the hospital. The husband left to get a wheelchair and the baby was born  while he was away. The wife didn't survive the birth.",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/speeding_cars.jpg",
+      "imagesource": "Nicolai Berntsen - https://unsplash.com/@nicolaiberntsen",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 3,
+      "title": "Desert match",
+      "story": "A naked man is lying dead in the desert. There's a match near his outstretched hand.",
+      "solution": "He was with several others in a hot air balloon, crossing the desert. There was a problem and they began to lose altitude. They tossed all their non-essentials overboard and then their clothing and food but they were still falling. They drew matches to see who would be thrown over the side to save the others. This man lost.",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/desert1.jpg",
+      "imagesource": "Andrew Coelho - https://unsplash.com/@andrewcoelho",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 4,
+      "title": "Hit and run",
+      "story": "A car without a driver moves; a man dies.",
+      "solution": "The murderer sets the car on a slope above the hot dog stand where the victim works. He wedges an ice block in the car to keep the brake pedal down, puts the car in neutral and leaves to establish an alibi. It's a warm day; when the ice melts, the car rolls down the hill and kills the victim.",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/car_no_driver.jpg",
+      "imagesource": "Zed Kolk - https://unsplash.com/@zedkolk",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 5,
+      "title": "Clean escape",
+      "story": "A woman in the shower has committed suicide but no weapon is found. How did she kill herself?",
+      "solution": "She stabbed herself with an icicle.",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/lipstick_on_the_mirror.jpg",
+      "imagesource": "http://freestocks.org/photo/lipstick-on-the-mirror/",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 6,
+      "title": "Mr and Mrs Brown",
+      "story": "Mr. Brown is glad the car ran out of petrol.",
+      "solution": "Mr. and Mrs. Brown had just gotten married. Mrs. Brown was subject to fits of depression. They had their first fight soon after they were married; Mr. Brown stormed out of the house, and Mrs. Brown went into the garage and started up the car, intending to kill herself by filling the garage with car exhaust. But the car ran out of petrol quickly, and Mr. Brown, returning home to apologize, found Mrs. Brown in time to summon help.",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/fuel_empty.jpg",
+      "imagesource": "Martin Vorel - http://libreshot.com",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 7,
+      "title": "Bad diet",
+      "story": "A man ate some food that was not poisoned, yet nevertheless caused him to die.",
+      "solution": "The man was Adam, and eating the forbidden fruit was punished by God making him mortal...so that he'd ultimately die.",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/food_diet.jpg",
+      "imagesource": "Valeria Boltneva - https://www.pexels.com/u/valeriya/",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 8,
+      "title": "A hard life",
+      "story": "A detective enters a crime scene where an old man lies on the floor with blood oozing out of his head. The victim is holding the gun and a tape recorder lays there by his side. The detective plays the recorded message: 'I am tired of this life and will relieve myself of these worldly pains.' A gunshot follows the message. The detective says this is a murder. How does he know it is not a suicide?",
+      "solution": "If the man killed himself, he would not have been able to rewind the cassette.",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/recorder.jpg",
+      "imagesource": "Peter Miranda - https://stocksnap.io/author/6541",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 9,
+      "title": "Pyrrhic victory",
+      "story": "A man wins the lottery and jumps off a bridge.",
+      "solution": "The man’s wife desperately needed a surgery which he could not afford. She died of her illness and a week later he wins millions of dollars. Now knowing what to do with the cash or how to enjoy his riches without his wife the man kills himself because fate has been so cruel to him.",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/goldern_gate_bridge.jpg",
+      "imagesource": "Umer Sayyam - https://unsplash.com/@sayyam197",
+      "storysource": "Original"
+    },
+    {
+      "_id": 10,
+      "title": "Lazy legs",
+      "story": "He couldn't find a chair, so he died.",	
+      "solution": "The man was a lion tamer.",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/chairs.jpg",
+      "imagesource": "Inma Ibáñez - https://inmaibanezc.wordpress.com/",
+      "storysource": "Classic"
+    }
+  ]
+}

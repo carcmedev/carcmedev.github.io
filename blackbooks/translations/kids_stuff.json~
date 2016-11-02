@@ -1,0 +1,307 @@
+{
+  "filename": "Kids_Stuff",
+  "stories": [
+    {
+      "_id": 1,
+      "title": "Bouncing Baby Boy",
+      "story": "A baby fell out of a twenty-story building onto the ground and live?",
+      "solution": "The baby fell out of a ground floor window.",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/baby.jpg",
+      "imagesource": "Drew Hays - https://www.instagram.com/drew_hays",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 2,
+      "title": "Sunday drive",
+      "story": "A man drives down the highway at 55 miles per hour. He passes three cars going 60 miles per hour, then gets pulled over by a police officer and is given a ticket.",
+     "solution": "The man was driving the wrong way on a one way street.",
+      
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/car_no_driver.jpg",
+      "imagesource": "Zed Kolk - https://unsplash.com/@zedkolk",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 3,
+      "title": "Expected outcome",
+      "story": "As the man approached the middle of the field, he knew he was going to be OK. Why?",
+      "solution": "He was skydiving and approaching the field from above. His parachute has opened he's on target for the landing field",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+
+      "picture": "http://carc.me/blackbooks/img/clover.jpg",
+      "imagesource": "Irene Dávila - https://unsplash.com/@irenedavila",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 4,
+      "title": "Sticks and stones",
+      "story": "A pile of pebbles and some sticks are lying on the grass. Nobody put them there",
+      "solution": "They were used to make a snowman. The snow has now melted.",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/rocks.jpg",
+      "imagesource": "Jeremy Thomas - https://stocksnap.io/author/26102",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 5,
+      "title": "Kid maths",
+      "story": "A woman had two sons who were born on the same hour of the same day of the same year. But they were not twins. How could this be so?",
+      "solution": "They were two of a set of triplets (or quadruplets etc.)",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/maths.jpg",
+      "imagesource": "Roman Mager - https://unsplash.com/@roman_lazygeek",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 6,
+      "title": "Too transparent",
+      "story": "This ancient invention, still in use in most parts of the world today, allows people to see through walls.",
+      "solution": "A window",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/ancient.jpg",
+      "imagesource": "贝莉儿 NG - https://unsplash.com/@danist07",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 7,
+      "title": "Popular man",
+      "story": "A man marries 20 women in his village but ins't charged with polygamy",
+      "solution": "He was the priest marrying them to other people, not himself",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/church.jpg",
+      "imagesource": "Jon Ottosson - http://www.jonottosson.com/",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 8,
+      "title": "Strapped in",
+      "story": "One of Johnny's dearest loved ones binds him to a chair, but Johnny doesn't mind.",	
+      "solution": "Johnny is a kid. The chair is a seat in a car. One of Johnny's parents put his seatbelt on for him.",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/tied_to_chair.jpg",
+      "imagesource": "Evan Kirby - https://unsplash.com/@evankirby2",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 9,
+      "title": "Bush fire",	
+      "story": "Four people are on a small, grass-covered island. A fire burns from one end of the island to the other but no one gets hurt",	 
+      "solution": "The four are able to start a new fire on the other side of them. When an area is burnt off, they can safely stand on the burnt patch, as it now contains no fuel for the fire",
+
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/fire.jpg",
+      "imagesource": "Dawn Armfield - http://darmfield.com",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 10,
+      "title": "Odd ones out",	
+      "story": "A man died and went to Heaven. There were thousands of other people there. They were all naked and all looked as they did at the age of 21. He looked around to see if there was anyone he recognised. He saw a couple and he immediately knew that they were Adam and Eve. How?",	
+      "solution": "They were the only ones there without a navel (belly button). Because they were not born, they had never had umbilical cords and therefore they never had navels.",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/passport.png",
+      "imagesource": "http://unsplash.com",
+      "storysource": "Classic"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "filename": "Classic3",
+  "stories": [
+    {
+      "_id": 1,
+      "title": "Not a drop to drink",
+      "story": "A man dies of thirst in his own home.",
+      "solution": "His home is a houseboat and he has run out of freshwater while on an extended cruise.",
+
+      "de_title": "Kein einziges Tröpfchen",
+      "de_story": "Ein Mann verdurstet in seinem eigenen Haus.",
+      "de_solution": "Der Mann lebt auf einem Hausboot. Er befindet sich auf einer längeren Kreuzfahrt, als ihm plötzlich das Trinkwasser ausgeht.",
+
+      "picture": "http://carc.me/blackbooks/img/water_flows_glass.jpg",
+      "imagesource": "Martin Vorel - http://libreshot.com/",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 2,
+
+      "title": "Speed dash",
+      "story": "A car races through the streets. It stops and a man gets out. When he returns his wife is dead and there is a stranger in the car.",
+      "solution": "They are about to have a baby and drove to the hospital. The husband left to get a wheelchair and the baby was born  while he was away. The wife didn't survive the birth.",
+
+      "de_title": "Überhöhte Geschwindigkeit",
+      "de_story": "Ein Mann rast mit seinem Auto durch die Straßen der Stadt. Er hält an und verlässt den Wagen. Als er zurückkommt, ist seine Frau tot und es befindet sich eine fremde Person im Auto.",
+      "de_solution": "Seine Frau befand sich in den Wehen. Der Mann steigt vor dem Krankenhaus aus dem Auto, um ihr einen Rollstuhl zu besorgen. In der Zwischenzeit bekommt die Frau ihr Kind. Als der Mann zurückkehrt, ist seine Frau an Komplikationen während der Geburt gestorben. Das Baby jedoch hat überlebt.",
+
+      "picture": "http://carc.me/blackbooks/img/speeding_cars.jpg",
+      "imagesource": "Nicolai Berntsen - https://unsplash.com/@nicolaiberntsen",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 3,
+      "title": "Desert match",
+      "story": "A naked man is lying dead in the desert. There's a match near his outstretched hand.",
+      "solution": "He was with several others in a hot air balloon, crossing the desert. There was a problem and they began to lose altitude. They tossed all their non-essentials overboard and then their clothing and food but they were still falling. They drew matches to see who would be thrown over the side to save the others. This man lost.",
+
+      "de_title": "Das Streichholz in der Wüste",
+      "de_story": "Ein nackter Mann liegt tot in der Wüste. In seiner Hand befindet sich ein Streichholz.",
+      "de_solution": "Der Mann befand sich mit anderen Mitgliedern einer Reisegruppe in einem Heißluftballon. Als dieser bei der Überquerung einer Wüste plötzlich an Höhe verliert, warfen alle Insassen unwichtige Dinge über Bord. Schließlich wurden auch Proviant und Kleidung aus dem Korb geworfen. Doch das reichte immer noch nicht. Alle Insassen zogen Streichhölzer, um zu bestimmen, wer aus dem Heißluftballon springen muss, um den Rest der Gruppe zu retten. Besagter nackter Mann hatte das kürzeste Streichholz gezogen.",
+
+      "picture": "http://carc.me/blackbooks/img/desert1.jpg",
+      "imagesource": "Andrew Coelho - https://unsplash.com/@andrewcoelho",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 4,
+
+      "title": "Hit and Run",
+      "story": "A car without a driver moves. A man dies.",
+      "solution": "The murderer sets the car on a slope above the hot dog stand where the victim works. He wedges an ice block in the car to keep the brake pedal down, puts the car in neutral and leaves to establish an alibi. It's a warm day. When the ice melts, the car rolls down the hill and kills the victim.",
+
+      "de_title": "Fahrerflucht",
+      "de_story": "Ein Auto ohne Fahrer bewegt sich. Ein Mann stirbt.",
+      "de_solution": "Es handelt sich um einen Mord! Der Mörder parkt sein Auto an einem Hang. Das Opfer arbeitet an einem Würstchenstand unter dem Hang. Der Mörder legt einen Eisblock auf das Bremspedal. Es ist ein warmer Sommertag. Der Mörder besorgt sich nun ein Alibi für die nächsten Minuten. Das Eis schmilzt, der Wagen stürzt die Klippe hinab und tötet den Würstchenverkäufer. Der Mörder befand sich zum Zeitpunkt des „Unfalls“ weit genug weg, um nicht in Verdacht zu geraten.",
+
+      "picture": "http://carc.me/blackbooks/img/car_no_driver.jpg",
+      "imagesource": "Zed Kolk - https://unsplash.com/@zedkolk",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 5,
+      "title": "Clean escape",
+      "story": "A woman in the shower has committed suicide but no weapon is found. How did she kill herself?",
+      "solution": "She stabbed herself with an icicle.",
+
+      "de_title": "Eine saubere Angelegenheit",
+      "de_story": "Eine Frau nimmt sich unter der Dusche das Leben. Jedoch findet sich keine Waffe. Wie hat sie das angestellt?",
+      "de_solution": "Die Frau hat sich mit einem Eiszapfen erstochen. Nachdem er geschmolzen war, wurde er zusammen mit dem restlichen Duschwasser weggespült.",
+
+      "picture": "http://carc.me/blackbooks/img/lipstick_on_the_mirror.jpg",
+      "imagesource": "http://freestocks.org/photo/lipstick-on-the-mirror/",
+      "storysource": "Original: Sherlock Holmes - https://en.wikipedia.org/wiki/The_Sign_of_Three"
+    },
+    {
+      "_id": 6,
+      "title": "Mr. and Mrs. Brown",
+      "story": "Mr. Brown is glad the car ran out of petrol.",
+      "solution": "Mr. and Mrs. Brown had just gotten married. Mrs. Brown was subject to fits of depression. They had their first fight soon after they were married. Mr. Brown stormed out of the house and Mrs. Brown went into the garage and started up the car intending to kill herself by filling the garage with car exhaust. But the car ran out of petrol quickly and Mr. Brown, returning home to apologize, found Mrs. Brown in time to summon help.",
+
+      "de_title": "Mr. und Mrs. Brown",
+      "de_story": "Mr. Brown ist froh, dass sein Auto kein Benzin mehr hatte.",
+      "de_solution": "Mr. und Mrs. Brown sind frisch verheiratet. Mrs. Brown leidet seit vielen Jahren an Depressionen. Als das Paar seinen ersten schlimmen Streit hat, stürmt Mr. Brown wutentbrannt aus dem Haus. Mrs. Brown geht daraufhin in die Garage mit der Absicht, sich durch Autoabgase das Leben zu nehmen. Zum Glück jedoch war nicht genug Benzin im Tank. Als Mr. Brown zurückkommt, um sich mit seiner Frau zu versöhnen, kann er rechtzeitig eine Ambulanz rufen und seine Frau retten.",
+
+      "picture": "http://carc.me/blackbooks/img/fuel_empty.jpg",
+      "imagesource": "Martin Vorel - http://libreshot.com",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 7,
+      "title": "Bad diet",
+      "story": "A man ate some food that was not poisoned, yet nevertheless caused him to die.",
+      "solution": "The man was Adam, and eating the forbidden fruit was punished by God making him mortal...so that he'd ultimately die.",
+
+      "de_title": "Schlechte Ernährung",
+      "de_story": "Ein Mann nahm etwas zu sich, das nicht vergiftet war. Dennoch führte dieses Mahl dazu, dass er stirbt.",
+      "de_solution": "Bei dem Mann handelte es sich um Adam. Als vom Apfel kostete, wurde er von Gott bestraft und ihm wurde seine Unsterblichkeit genommen. Das führte schließlich zu seinem Tod.",
+
+      "picture": "http://carc.me/blackbooks/img/food_diet.jpg",
+      "imagesource": "Valeria Boltneva - https://www.pexels.com/u/valeriya/",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 8,
+      "title": "A hard life",
+      "story": "A detective enters a crime scene where an old man lies dead with a gunshot wound to the head on the floor. The victim is holding the gun and a tape recorder lays there by his side. The detective plays the recorded message: 'I am tired of this life and will relieve myself of these worldly pains.' A gunshot follows the message. The detective says this is a murder. How does he know it is not a suicide?",
+      "solution": "If the man killed himself, he would not have been able to rewind the cassette.",
+
+      "de_title": "Ein cleverer Schnüffler",
+      "de_story": "Ein Ermittler betritt einen Tatort. Dort liegt ein alter Mann mit einer Kopfschusswunde tot auf dem Boden. Er hält eine Pistole in der einen und ein Aufnahmegerät in der anderen Hand. Der Ermittler spielt die  Nachricht auf dem Tonband ab: „Ich habe von diesem Leben und allen weltlichen Schmerzen genug.“  Kurz darauf ist ein Schuss auf dem Band zu hören. Der Ermittler ist sich daraufhin sicher: „Es war Mord! Kein Selbstmord.“ Was ist ihm aufgefallen?",
+      "de_solution": "Wenn der Mann tatsächlich Selbstmord begangen hat, wer hat dann das Band zurückgespult?",
+
+      "picture": "http://carc.me/blackbooks/img/recorder.jpg",
+      "imagesource": "Peter Miranda - https://stocksnap.io/author/6541",
+      "storysource": "Classic"
+    },
+    {
+      "_id": 9,
+      "title": "Pyrrhic victory",
+      "story": "A man wins the lottery and jumps off a bridge.",
+      "solution": "The man’s wife desperately needed a surgery which he could not afford. She died of her illness and a week later he wins millions of dollars. Not knowing what to do with the cash or how to enjoy his riches without his wife the man kills himself because fate had been so cruel to him.",
+
+      "de_title": "Die Früchte des Erfolges schmecken bitter",
+      "de_story": "Ein Mann gewinnt im Lotto und springt von einer Brücke.",
+      "de_solution": "Die Frau des Ehemannes litt an einer schweren Krankheit und das Paar konnte sich die lebensrettende Operation nicht leisten. Eine Woche nach dem Tod der Frau gewinnt der Mann im Lotto. Weil er nicht weiß, was er ohne seine Frau mit dem ganzen Geld anstellen soll und das Schicksal verflucht, nimmt er sich das Leben.",
+
+      "picture": "http://carc.me/blackbooks/img/bridge.jpg",
+      "imagesource": "Axel Antas-Bergkvist - https://unsplash.com/@abl",
+      "storysource": "Original"
+    },
+    {
+      "_id": 10,
+      "title": "Lazy legs",
+      "story": "He couldn't find a chair, so he died.",	
+      "solution": "The man was a lion tamer.",
+
+      "de_title": "Reise nach Jerusalem",
+      "de_story": "Er konnte keinen Stuhl finden, also starb er.",
+      "de_solution": "Der Mann war ein Löwenbändiger.",
+
+      "picture": "http://carc.me/blackbooks/img/chairs.jpg",
+      "imagesource": "Inma Ibáñez - https://inmaibanezc.wordpress.com/",
+      "storysource": "Classic"
+    }
+  ]
+}

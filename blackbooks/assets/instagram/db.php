@@ -1,0 +1,12 @@
+<?php
+define('DB_SERVER', 'carcme.ipagemysql.com');
+define('DB_USERNAME', '0O6uK5Iki2475mN');
+define('DB_PASSWORD', 'h3ll0W0rl@');
+define('DB_DATABASE', 'details');
+$connection =   mysql_connect(DB_SERVER,DB_USERNAME,DB_PASSWORD,DB_DATABASE);
+if (!$connection) { 
+    die('Could not connect: ' . mysql_error()); 
+} 
+echo 'Connected successfully'; 
+$base_url='http://www.carc.me/blackbooks/email_activation/';
+?>

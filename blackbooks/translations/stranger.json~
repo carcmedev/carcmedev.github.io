@@ -1,0 +1,305 @@
+{
+  "filename": "Stranger_Than_Fiction",
+  "stories": [
+    {
+      "_id": 1,
+      "title": "Shining target",
+      "story": "It was his bald head that ultimately killed him",
+      "solution": "According to legend, Aeschylus was in a field and, an an eagle wanted to shatter a turtle on a rock to get to the heart. The bird mistook Aeschylus' bald top with a stone, let go, and the turtle killed the poet.",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/bald_head.jpg",
+      "imagesource": "Marco D'Emilia - https://unsplash.com/@mdemilia",
+      "storysource": "Original - https://de.wikipedia.org/wiki/Aischylos"
+    },
+    {
+      "_id": 2,
+      "title": "Darwin would be proud",
+      "story": "Gary Hoy wasn't quite right when he fell to his death from the 24th story of his office building",
+      "solution": "In an attempt to prove to a group of prospective students that the glass in the Toronto-Dominion Centre was unbreakable, Hoy threw himself through a glass wall on the 24th story and fell to his death after the window frame gave way",
+      
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/building.jpg",
+      "imagesource": "Anders Jildén - https://unsplash.com/@andersjilden",
+      "storysource": "Original - https://en.wikipedia.org/wiki/Death_of_Garry_Hoy"
+    },
+    {
+      "_id": 3,
+      "title": "A smile like no other",
+      "story": "A fantastic smile led to slow and painful death",
+      "solution": "Female factory workers contracted radiation poisoning from painting watch dials with luminous paint around 1917. The women, who had been told the paint was harmless, ingested deadly amounts of radium by licking their paintbrushes to give them a fine point; some also painted their fingernails and teeth with the glowing substance",	
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/face_mouth.jpg",
+      "imagesource": "Alex Holyoake - https://stocksnap.io/author/21235",
+      "storysource": "Original - https://en.wikipedia.org/wiki/Radium_Girls"
+    },
+    {
+      "_id": 4,
+      "title": "Pin point accuracy",
+      "story": "He throws the javelin and impales himself",
+      "solution": "A high school physical education teacher demonstrates the javelin and makes an impressive throw. Running to retrieve the javelin, he turns around and yells to the class, only to impale himself through the eye on the javelin when he turns back around, driving it into his brain",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/pinpoint.jpg",
+      "imagesource": "Unknown",
+      "storysource": "Original - http://1000waystodie.wikia.com/wiki/Dead_Eye"
+    },
+    {
+      "_id": 5,
+      "title": "Tragic gift",
+      "story": "The wedding present to his new wife takes his breath away",
+      "solution": "On May 1, 1979, at Roger's RV Park, in Aberdeen, SD. A newly married man attempts to unclog his new RV's toilet with bleach since other attempts to unclog it are unsuccessful. The bleach reacts with the sewage to form chlorine gas, which suffocates him",	
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/wedding.jpg",
+      "imagesource": "Andreas Rønningen - https://unsplash.com/@andozo",
+      "storysource": "Original - http://1000waystodie.wikia.com/wiki/Trailer_Trashed"
+    },
+    {
+      "_id": 6,
+      "title": "Eye witness",
+      "story": "A woman has incontrovertible proof in court that her husband was murdered by her sister. The judge declares, This is the strangest case I've ever seen. Though it's a cut-and-dried case, this woman cannot be punished.",
+      "solution": "The sisters are Siamese twins.",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/woman_eyes.jpg",
+      "imagesource": "Alexandru Zdrobău - https://unsplash.com/@alexandruz",
+      "storysource": "Classic - https://nickkam.com/2009/12/29/half-guilty"
+    },
+    {
+      "_id": 7,
+      "title": "No fun park",
+      "story": "Jacob has a ticket to the new amusement park and is looking forward to going next week. Unfortunately, he'll never make it there",
+      "solution": "The amusement park is at Pripyat, near the Chernobyl Nuclear Power Plant. It was due to open on the 1st May, 1986 but plans were interrupted when the Chernobyl disaster occurred a few kilometers away on the 26th April.",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/ferris_wheel.jpg",
+      "imagesource": "Taylor Nicole - https://unsplash.com/@taynicole0630",
+      "storysource": "Original - https://en.wikipedia.org/wiki/Pripyat"
+    },
+    {
+      "_id": 8,
+      "title": "A Happy Death",
+      "story": "Ingrid and Manuel died in Mexico, while Joaquin died at sea. Everyone was much happier with Joaquin's death",
+      "solution": "Ingrid, Manuel (2013) and Joaquin (2015) were hurricanes",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/limes.jpg",
+      "imagesource": "Hoach Le Dinh - https://unsplash.com/@hoachld",
+      "storysource": "Classic - https://en.wikipedia.org/wiki/Hurricane_Ingrid"
+    },
+    {
+      "_id": 9,
+      "title": "Cold Summer Day",
+      "story": "A body is discovered in the park during the summer but the cause of death was hypothermia.",
+      "solution": "A stowaway attempts to hide in the landing gear compartment of a airplane. He dies of hypothermia in mid-flight and falls out when the compartment opens as the plane makes its final approach.",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/trees.jpg",
+      "imagesource": "",
+      "storysource": "Classic - https://en.wikipedia.org/wiki/List_of_wheel-well_stowaway_flights"
+    },
+    {
+      "_id": 10,
+      "title": "Death by chocolate",
+      "story": "Her love of Nutella caused the house fire that killed her",
+      "solution": "Suns rays refracting through glass bottles or off mirrors can cause a fire to start. The young girl was using Nutella jars as storage on her bedroom window sill, got caught in one such fire.",
+
+      "de_title": "GERMAN_TITLE_HERE",
+      "de_story": "GERMAN_STORY_HERE",
+      "de_solution": "GERMAN_SOLUTION_HERE",
+
+      "el_title": "GREEK_TITLE_HERE",
+      "el_story": "GREEK_STORY_HERE",
+      "el_solution": "GREEK_SOLUTION_HERE",
+
+      "es_title": "SPAINISH_TITLE_HERE",
+      "es_story": "SPAINISH_STORY_HERE",
+      "es_solution": "SPAINISH_SOLUTION_HERE",
+
+      "pt_title": "PORTUGESE_TITLE_HERE",
+      "pt_story": "PORTUGESE_STORY_HERE",
+      "pt_solution": "PORTUGESE_SOLUTION_HERE",
+
+      "pl_title": "POLISH_TITLE_HERE",
+      "pl_story": "POLISH_STORY_HERE",
+      "pl_solution": "POLISH_SOLUTION_HERE",
+
+      "picture": "http://carc.me/blackbooks/img/glass_bottles.jpg",
+      "imagesource": "https://unsplash.com/@brinnafair",
+      "storysource": "Original - http://keybury.co.uk/glass-sunlight-fire-risk/"
+    }
+  ]
+}
