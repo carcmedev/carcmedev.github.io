@@ -1,0 +1,38 @@
+<html>
+<head>
+  <title>A Leaflet map!</title>
+  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css"/>
+  <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+
+  <link rel="stylesheet" href="css/main.css?523">
+
+
+  <style>
+		#map {
+			height: 50%;
+			width: 100%;
+			position: absolute;
+		}
+  </style>
+</head>
+<body>
+
+  <div id="map"></div>
+
+  <!-- <script>
+
+  // initialize the map
+  var map = L.map('map').setView([52.516260, 13.377425], 13);
+
+  // load tile layer used in BTown
+  L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+  }).addTo(map);
+
+
+  </script> -->
+
+  <script src="js/main.js?mapInit"></script>
+
+</body>
+</html>
