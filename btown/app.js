@@ -32,60 +32,13 @@ function myFunction() {
       .openOn(map);
   }
 
-   map.on('click', onMapClick);
-
-
-   var GoogleSearch = L.Control.extend({
-     onAdd: function() {
-       var element = document.createElement("input");
-
-       element.id = "searchBox";
-
-       return element;
-     }
-   });
-
-   (new GoogleSearch).addTo(map);
-
-   var input = document.getElementById("searchBox");
-
-      var searchBox = new google.maps.places.SearchBox(input);
-
-      searchBox.addListener('places_changed', function() {
-        var places = searchBox.getPlaces();
-
-        if (places.length == 0) {
-          return;
-        }
-
-        var group = L.featureGroup();
-
-        places.forEach(function(place) {
-
-          // Create a marker for each place.
-          console.log(places);
-          console.log(place.geometry.location.lat() + " / " + place.geometry.location.lng());
-          var marker = L.marker([
-            place.geometry.location.lat(),
-            place.geometry.location.lng()
-          ]);
-          group.addLayer(marker);
-        });
-
-        group.addTo(map);
-        map.fitBounds(group.getBounds());
-
-      });
-
-
-
-
+  map.on('click', onMapClick);
 
   // load json-file
   $(document).ready(function() {
     $.ajax({
       type: "GET",
-      url: "ddj.json",
+      url: "bus100.json",
       dataType: "json",
       mimeType: "application/json",
       success: function(data) {
@@ -95,25 +48,93 @@ function myFunction() {
   });
 
 
-  function processData(allText) {
+  // add a layer group, yet empty
+  var markersLayer = new L.LayerGroup();
+  map.addLayer(markersLayer);
 
-    for (var i in allText) {
-      data = allText[i];
-      var customicon = L.icon({
-        // the iconUrl is now the ith element in data.icon
-        iconUrl: data.icon,
-        iconSize: [52, 60], // size of the icon
-        iconAnchor: [26, 60], // point of the icon which will correspond to marker's location
-        popupAnchor: [0, -60] // point of the icon where the popup window will open
-      });
+  // add the search bar to the map
+  var controlSearch = new L.Control.Search({
+    position: 'topleft', // where do you want the search bar?
+    layer: markersLayer, // name of the layer
+    initial: false,
+    zoom: 11, // set zoom to found location when searched
+    marker: false,
+    textPlaceholder: 'Search...' // placeholder while nothing is searched
+  });
 
-      // add the marker to the map
-      L.marker([data.long, data.lat], {
-          icon: customicon
-        })
-        .addTo(map).bindPopup("<strong style='color: #84b819'>" + data.newsroom + "</strong><br>" + data.company + " | " + data.city + "<br>Head: " + data.head)
+  map.addControl(controlSearch); // add it to the map
 
-      // close the loop, the function processData(allText) and myFunction()
-    }
-  }
+  // add var "code"
+  var code = '1ciPq3VfxUv3ucttkMPzNXNR1NLKA1JrOq1tGiLg2CsI'
+
+  // loop through spreadsheet with Tabletop
+  Tabletop.init({
+    key: code,
+    callback: function(sheet, tabletop) {
+
+      for (var i in sheet) {
+        var data = sheet[i];
+
+        var icon = L.icon({
+          iconUrl: data.icon,
+          iconSize: [52, 60], // size of the icon
+          iconAnchor: [26, 60], // point of the icon which will correspond to marker's location
+          popupAnchor: [0, -60]
+        });
+        if (data.iconori === "left") {
+          icon = L.icon({
+            iconUrl: data.icon,
+            iconSize: [60, 52],
+            iconAnchor: [60, 26],
+            popupAnchor: [-35, -26]
+          });
+        };
+        if (data.iconori === "right") {
+          icon = L.icon({
+            iconUrl: data.icon,
+            iconSize: [60, 52],
+            iconAnchor: [0, 26],
+            popupAnchor: [35, -26]
+          })
+        };
+
+        // delete or exclude the marker adding part
+        // L.marker([data.longitude, data.latitude], {icon: icon})
+        //  .addTo(map)
+        //  .bindPopup("<strong style="color: #84b819;">" + data.newsroom + "</strong>" + data.company + " | " + data.city + "Head: " + data.head).openPopup();
+
+      }
+    },
+    simpleSheet: true
+  })
+
+
+
+
+
+
+
+
+
+  // function processData(allText) {
+  //
+  //   for (var i in allText) {
+  //     data = allText[i];
+  //     var customicon = L.icon({
+  //       // the iconUrl is now the ith element in data.icon
+  //       iconUrl: data.icon,
+  //       iconSize: [52, 60], // size of the icon
+  //       iconAnchor: [26, 60], // point of the icon which will correspond to marker's location
+  //       popupAnchor: [0, -60] // point of the icon where the popup window will open
+  //     });
+  //
+  //     // add the marker to the map
+  //     L.marker([data.long, data.lat], {
+  //         icon: customicon
+  //       })
+  //       .addTo(map).bindPopup("<strong style='color: #84b819'>" + data.newsroom + "</strong><br>" + data.company + " | " + data.city + "<br>Head: " + data.head)
+  //
+  //     // close the loop, the function processData(allText) and myFunction()
+  //   }
+  // }
 }
