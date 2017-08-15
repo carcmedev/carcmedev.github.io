@@ -6,7 +6,7 @@
    "company": "Spiegel Online",
    "city": "Hamburg",
    "head": "Christina Elmer",
-   "icon": "icons/Spiegel.png"
+   "icon": "icons/SRF.png"
  },
  {
    "long": 48.144395,
@@ -15,7 +15,7 @@
    "company": "Bayrischer Rundfunk",
    "city": "München",
    "head": "Uli Köppen",
-   "icon": "icons/BR.png"
+   "icon": "icons/SRF.png"
  },
  {
    "long": 47.417563,
@@ -33,7 +33,7 @@
    "company": "Neue Zürcher Zeitung",
    "city": "Zürich",
    "head": "David Bauer",
-   "icon": "icons/NZZ.png"
+   "icon": "icons/SRF.png"
  },
  {
    "long": 52.518712,
@@ -42,7 +42,7 @@
    "company": "Zeit Online",
    "city": "Berlin",
    "head": "Sascha Venohr",
-   "icon": "icons/Zeit.png"
+   "icon": "icons/SRF.png"
  },
  {
    "long": 52.50762,
@@ -51,7 +51,7 @@
    "company": "Berliner Morgenpost",
    "city": "Berlin",
    "head": "Julius Tröger",
-   "icon": "icons/MOPO.png"
+   "icon": "icons/SRF.png"
  },
  {
    "long": 51.233059,
@@ -60,6 +60,6 @@
    "company": "Rheinische Post",
    "city": "Düsseldorf",
    "head": "Phil Ninh",
-   "icon": "icons/RPData.png"
+   "icon": "icons/SRF.png"
  }
 ]
