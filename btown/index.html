@@ -6,12 +6,18 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
+  <script type="text/javascript" src="map.js"></script>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/leaflet-sidebar.css" />
+  <script src="./js/leaflet-sidebar.js"></script>
 
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
-  <!--[if lte IE 8]><link rel="stylesheet" href="//cdn.leafletjs.com/leaflet-0.7.2/leaflet.ie.css" /><![endif]-->
-
-  <link rel="stylesheet" href="./css/leaflet-sidebar.css" />
+  <script type="text/javascript" src="css/tabletop.min.js"></script>
+  <script type="text/javascript" src="css/leaflet-search.min.js"></script>
+  <link rel="stylesheet" href="css/leaflet-search.min.css">
+  <script type="text/javascript" src="css/jquery-1.7.1.min.js"></script>
 
   <style>
     body {
@@ -48,7 +54,7 @@
   </style>
 </head>
 
-<body>
+<body onload="initiMap()">>
   <div id="sidebar" class="sidebar collapsed">
     <!-- Nav tabs -->
     <div class="sidebar-tabs">
@@ -88,7 +94,6 @@
         <p class="color_blue_grey_500"> • Directions</p>
         <p class="color_blue_grey_500"> • Searches</p>
         <p class="color_blue_grey_500"> • Wikipedia</p>
-
       </div>
 
 
@@ -119,14 +124,16 @@
         <h1 class="sidebar-header">Tours<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
 
         <p class="subheading">Nikolaiviertel's Myths & Legends</p>
-        <p class="color_blue_grey_500">Where Berlin began: Check out Nikolaiviertel's medieval history! Nikolaiviertel is where Berlin began 900 years ago and each stop has its own myth or legend. The vibrant nightlife with countless pubs and restaurants will quench your thirst on the way round too</p>
+        <p class="color_blue_grey_500">Where Berlin began: Check out Nikolaiviertel's medieval history! Nikolaiviertel is where Berlin began 900 years ago and each stop has its own myth or legend. The vibrant nightlife with countless pubs and restaurants will quench your thirst on
+          the way round too</p>
 
         <p class="subheading">Bus 100</p>
-        <p class="color_blue_grey_500">Don't pay 20+ € to the tour bus companies, get yourself a Berlin travel day card and see the city with us. We'll show you the best attractions and you decide if you want to hop off the bus for a closer look or just stay in the bus and enjoy looking at them in passing</p>
+        <p class="color_blue_grey_500">Don't pay 20+ € to the tour bus companies, get yourself a Berlin travel day card and see the city with us. We'll show you the best attractions and you decide if you want to hop off the bus for a closer look or just stay in the bus and enjoy looking
+          at them in passing</p>
 
         <p class="subheading">Museum Island</p>
-        <p class="color_blue_grey_500">Want to tour the museums but not sure which ones you want to pay to go in? We'll show whats in each and let you decide if you fancy a walk around inside. We'll also give you some amusing anecdotes from history will turn this tour into an interesting adventure through history</p>
-
+        <p class="color_blue_grey_500">Want to tour the museums but not sure which ones you want to pay to go in? We'll show whats in each and let you decide if you fancy a walk around inside. We'll also give you some amusing anecdotes from history will turn this tour into an interesting
+          adventure through history</p>
       </div>
 
 
@@ -138,7 +145,7 @@
       <div class="sidebar-pane" id="messages">
         <h1 class="sidebar-header">Messages<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
 
-       <p class="color_blue_grey_500">We're still in development, please use the Facebook icon below to contact for the time being</p>
+        <p class="color_blue_grey_500">We're still in development, please use the Facebook icon below to contact for the time being</p>
       </div>
 
       <div class="sidebar-pane" id="playstore">
@@ -157,31 +164,13 @@
 
   <div id="map" class="sidebar-map"></div>
 
-  <div id="playstorelink" style="position: absolute; bottom: 10px; right: 0; border: 0; z-index : 2000" >
+  <div id="playstorelink" style="position: absolute; bottom: 10px; right: 0; border: 0; z-index : 2000">
     <a href="https://play.google.com/store/apps/details?id=me.carc.btown" target="_blank"><img src="img/en_badge_web_generic.png" width="150" alt="play store logo"></a>
   </div>
 
-  <div id="btown_badge" style="position: absolute; top: 20px; right: 0; border: 0; z-index : 2000; color: rgba(255, 255, 255, 0.95);" >
+  <!-- <div id="btown_badge" style="position: absolute; top: 20px; right: 0; border: 0; z-index : 2000; color: rgba(255, 255, 255, 0.95);">
     <img src="img/btown_badge.png" width="100" alt="btown badge">
-  </div>
-
-  <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
-  <script src="./js/leaflet-sidebar.js"></script>
-
-  <script>
-    var map = L.map('map');
-    map.setView([52.516260, 13.377425], 12);
-
-    L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      maxZoom: 18,
-      attribution: 'Map data &copy; OpenStreetMap contributors'
-    }).addTo(map);
-
-    var marker = L.marker([52.516260, 13.377425]).addTo(map);
-
-    var sidebar = L.control.sidebar('sidebar').addTo(map);
-
-  </script>
+  </div> -->
 </body>
 
 </html>
