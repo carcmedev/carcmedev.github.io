@@ -13,6 +13,10 @@ function initiMap() {
 
 	var sidebar = L.control.sidebar('sidebar').addTo(map);
 
+
+/* Put this back in when move from GitHub hosting  - Can still add the layers with the tours while on GitHub (todo)
+
+
 	map.addControl(new L.Control.Search({
 		url: 'http://nominatim.openstreetmap.org/search?format=json&q={s}',
 		jsonpParam: 'json_callback',
@@ -30,6 +34,7 @@ function initiMap() {
 
 	// addGoogleSearch(map);
 	addPoiLayers(map, osm);
+*/
 }
 
 function addPoiLayers(map, osm) {
