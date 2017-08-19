@@ -33,8 +33,11 @@ function initiMap() {
 	}));
 
 	// addGoogleSearch(map);
+
 	addPoiLayers(map, osm);
 */
+	osm.addTo(map);
+
 }
 
 function addPoiLayers(map, osm) {
