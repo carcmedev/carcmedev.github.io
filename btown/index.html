@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
 
@@ -180,3 +181,187 @@
 </body>
 
 </html>
+=======
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>B-Town Berlin</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+  <script type="text/javascript" src="map.js"></script>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/leaflet-sidebar.css" />
+  <script src="./js/leaflet-sidebar.js"></script>
+
+  <script type="text/javascript" src="css/tabletop.min.js"></script>
+  <script type="text/javascript" src="css/leaflet-search.min.js"></script>
+  <link rel="stylesheet" href="css/leaflet-search.min.css">
+  <script type="text/javascript" src="css/jquery-1.7.1.min.js"></script>
+
+  <script src="https://maps.googleapis.com/maps/api/js?v=3&sensor=false"></script>
+
+  <script src="css/OverPassLayer.js"></script>
+
+
+  <style>
+    body {
+      padding: 0;
+      margin: 0;
+    }
+
+    .color_blue_grey_500 {
+      color: #607D8B;
+    }
+
+    .color_yellow_500 {
+      color: #FFEB3B;
+    }
+
+    html,
+    body,
+    #map {
+      width: 100%;
+      height: 100%;
+      font: 10pt "Helvetica Neue", Arial, Helvetica, sans-serif;
+    }
+
+    .subheading {
+      font-style: italic;
+      color: #222;
+      font: 12pt "Helvetica Neue", Arial, Helvetica, sans-serif;
+    }
+
+    .lorem {
+      font-style: italic;
+      color: #607D8B;
+    }
+  </style>
+</head>
+
+<body onload="initiMap()">>
+  <div id="sidebar" class="sidebar collapsed">
+    <!-- Nav tabs -->
+    <div class="sidebar-tabs">
+      <ul role="tablist">
+        <li><a href="#home" role="tab"><i class="fa fa-bars"></i></a></li>
+        <li><a href="#mapfeatures" role="tab"><i class="fa fa-map"></i></a></li>
+        <li><a href="#tourfeatures" role="tab"><i class="fa fa-location-arrow"></i></a></li>
+        <li><a href="#tours" role="tab"><i class="fa fa-map-signs"></i></a></li>
+        <li class="disabled"><a href="#profile" role="tab"><i class="fa fa-user"></i></a></li>
+        <li><a href="#messages" role="tab"><i class="fa fa-envelope"></i></a></li>
+        <li><a href="#playstore" role="tab"><i class="fa fa-android"></i></a></li>
+      </ul>
+
+
+      <ul role="tablist">
+        <li><a href="https://www.facebook.com/btowntours" role="tab" target="_blank"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="https://www.instagram.com/btownberlin" role="tab" target="_blank"><i class="fa fa-instagram"></i></a></li>
+        <li><a href="https://carcmedev.github.io" role="tab" target="_blank"><i class="fa fa-github"></i></a></li>
+        <li class="disabled"><a href="#settings" role="tab"><i class="fa fa-gear"></i></a></li>
+        <li><a href="https://carcmedev.github.io/btown/privacy.html" role="tab" target="_blank"><i class="fa fa-lock"></i></a></li>
+      </ul>
+    </div>
+
+
+    <!-- Tab panes -->
+    <div class="sidebar-content">
+      <div class="sidebar-pane" id="home">
+        <h1 class="sidebar-header">
+                    B-Town Berlin - Tours and Maps
+                    <span class="sidebar-close"><i class="fa fa-caret-left"></i></span>
+                </h1>
+
+        <!-- <p>A responsive sidebar for mapping libraries like <a href="http://leafletjs.com/">Leaflet</a> or <a href="http://openlayers.org/">OpenLayers</a>.</p> -->
+        <p class="subheading" class="fa fa-caret-left">Welcome to B-Town, THE one-stop app for Berlin.</p>
+
+        <p class="color_blue_grey_500"> • Map</p>
+        <p class="color_blue_grey_500"> • Tours</p>
+        <p class="color_blue_grey_500"> • Directions</p>
+        <p class="color_blue_grey_500"> • Searches</p>
+        <p class="color_blue_grey_500"> • Wikipedia</p>
+      </div>
+
+
+      <div class="sidebar-pane" id="mapfeatures">
+        <h1 class="sidebar-header">Map Features<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+
+        <p class="color_blue_grey_500"> • OpenStreetMap - constantly updated with many details missing from other maps</p>
+        <p class="color_blue_grey_500"> • Comprehensive search </p>
+        <p class="color_blue_grey_500"> • Integrated public transport routing and map</p>
+        <p class="color_blue_grey_500"> • Easily find Wikipedia entries for your local area or anywhere in the world. Just point the map at the area of interest and let the app do all the work</p>
+      </div>
+
+
+      <div class="sidebar-pane" id="tourfeatures">
+        <h1 class="sidebar-header">Tour Features<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+
+        <p class="color_blue_grey_500"> • All tours are written specifically for the app... you won't find this much information all in one place anywhere else!</p>
+        <p class="color_blue_grey_500"> • We'll point out the relevant extras or you can do a quick search for something to eat and drink</p>
+        <p class="color_blue_grey_500"> • Browse, zoom or share any image or use a favorite as your device wallpaper</p>
+        <p class="color_blue_grey_500"> • You can zoom all photographs in B-Town and set as wallpaper or share with friends. Simply touch the photograph to show the additional options.</p>
+        <p class="color_blue_grey_500"> • Check-in at locations with Facebook or snap a beautiful image and post it to Instagram</p>
+        <p class="color_blue_grey_500"> • Snap a beautiful image and post it to Instagram</p>
+        <p class="color_blue_grey_500"> • Or post it to our sever and see it in an upcoming tour</p>
+      </div>
+
+
+      <div class="sidebar-pane" id="tours">
+        <h1 class="sidebar-header">Tours<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+
+        <p class="subheading">Nikolaiviertel's Myths & Legends</p>
+        <p class="color_blue_grey_500">Where Berlin began: Check out Nikolaiviertel's medieval history! Nikolaiviertel is where Berlin began 900 years ago and each stop has its own myth or legend. The vibrant nightlife with countless pubs and restaurants will quench your thirst on
+          the way round too</p>
+
+        <p class="subheading">Bus 100</p>
+        <p class="color_blue_grey_500">Don't pay 20+ € to the tour bus companies, get yourself a Berlin travel day card and see the city with us. We'll show you the best attractions and you decide if you want to hop off the bus for a closer look or just stay in the bus and enjoy looking
+          at them in passing</p>
+
+        <p class="subheading">Museum Island</p>
+        <p class="color_blue_grey_500">Want to tour the museums but not sure which ones you want to pay to go in? We'll show whats in each and let you decide if you fancy a walk around inside. We'll also give you some amusing anecdotes from history will turn this tour into an interesting
+          adventure through history</p>
+      </div>
+
+
+      <div class="sidebar-pane" id="profile">
+        <h1 class="sidebar-header">Profile<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+      </div>
+
+
+      <div class="sidebar-pane" id="messages">
+        <h1 class="sidebar-header">Messages<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+
+        <p class="color_blue_grey_500">We're still in development, please use the Facebook icon below to contact for the time being</p>
+      </div>
+
+      <div class="sidebar-pane" id="playstore">
+        <h1 class="sidebar-header">Download B-Town<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+        <p class="color_blue_grey_500"> After many hours, B-Town is available for download</p>
+
+        <p><a href="https://play.google.com/store/apps/details?id=me.carc.btown" target="_blank"><img src="img/en_badge_web_generic.png" width="270" alt="play store logo"></a></p>
+      </div>
+
+
+      <div class="sidebar-pane" id="settings">
+        <h1 class="sidebar-header">Settings<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+      </div>
+    </div>
+  </div>
+
+  <div id="map" class="sidebar-map"></div>
+
+  <div id="playstorelink" style="position: absolute; bottom: 10px; right: 0; border: 0; z-index : 2000">
+    <a href="https://play.google.com/store/apps/details?id=me.carc.btown" target="_blank"><img src="img/en_badge_web_generic.png" width="150" alt="play store logo"></a>
+  </div>
+
+  <!-- <div id="btown_badge" style="position: absolute; top: 20px; right: 0; border: 0; z-index : 2000; color: rgba(255, 255, 255, 0.95);">
+    <img src="img/btown_badge.png" width="100" alt="btown badge">
+  </div> -->
+</body>
+
+</html>
+>>>>>>> 8d038624779838035ddae6d578efa6437b73415d
