@@ -1,140 +1,239 @@
 function myFunction() {
 
-  var map = L.map('map');
-  map.setView([52.516260, 13.377425], 6);
-
-  L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 18,
-    attribution: 'Map data &copy; OpenStreetMap contributors'
-  }).addTo(map);
-
-  // add a minimal zoom to prevent users from zooming out too far
-  map._layersMinZoom = 5;
+	// var map = L.map('map', {
+	// 		zoom: 11,
+	// 		center: L.latLng([52.516260, 13.377425]),
+	//         maxBounds: L.latLngBounds([[52.674868, 13.719984],[52.402008, 13.071110]]).pad(0.5),
+	// 		attributionControl: false
+	// 	}),
+	// 	osmLayer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
 
 
-  var marker = L.marker([52.516260, 13.377425]).addTo(map).bindPopup("<b>Hello world!</b><br />I am a popup.").openPopup();;
+	var map = L.map('map');
+	map.setView([52.516260, 13.377425], 6);
+
+	L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+		maxZoom: 18,
+		attribution: 'Map data &copy; OpenStreetMap contributors'
+	}).addTo(map);
+
+	// add a minimal zoom to prevent users from zooming out too far
+	map._layersMinZoom = 5;
+
+	// Creates a red marker with the coffee icon
+	var redMarker = L.AwesomeMarkers.icon({
+		icon: 'coffee',
+		markerColor: 'red',
+		spin: true
+
+	});
+
+	L.marker([52.511260, 13.337425], {
+		icon: redMarker
+	}).addTo(map);
+
+	// var marker = L.marker([52.516260, 13.377425]).addTo(map).bindPopup("<b>Hello world!</b><br />I am a popup.").openPopup();
 
 
-  L.circle([52.556260, 13.377425], 50, {
-    color: 'red',
-    fillColor: '#f03',
-    fillOpacity: 0.5
-  }).addTo(map).bindPopup("I am a circle.");
+	// L.circle([52.556260, 13.377425], 50, {
+	// 	color: 'red',
+	// 	fillColor: '#f03',
+	// 	fillOpacity: 0.5
+	// }).addTo(map).bindPopup("I am a circle.");
 
-  var sidebar = L.control.sidebar('sidebar').addTo(map);
+	var sidebar = L.control.sidebar('sidebar').addTo(map);
 
-  var popup = L.popup();
+	// var popup = L.popup();
+	//
+	// function onMapClick(e) {
+	// 	popup
+	// 		.setLatLng(e.latlng)
+	// 		.setContent("todo: Reverse Lookup" + e.latlng.toString())
+	// 		.openOn(map);
+	// }
+	//
+	// map.on('click', onMapClick);
 
-  function onMapClick(e) {
-    popup
-      .setLatLng(e.latlng)
-      .setContent("todo: Reverse Lookup" + e.latlng.toString())
-      .openOn(map);
-  }
+	// load json-file
+	// $(document).ready(function() {
+	//   $.ajax({
+	//     type: "GET",
+	//     url: "ddj.json",
+	//     dataType: "json",
+	//     mimeType: "application/json",
+	//     success: function(data) {
+	//       processData(data);
+	//     }
+	//   });
+	// });
+	//
+	// function processData(allText) {
+	//
+	//   for (var i in allText) {
+	//     data = allText[i];
+	//     var customicon = L.icon({
+	//       // the iconUrl is now the ith element in data.icon
+	//       iconUrl: data.icon,
+	//       iconSize: [52, 60], // size of the icon
+	//       iconAnchor: [26, 60], // point of the icon which will correspond to marker's location
+	//       popupAnchor: [0, -60] // point of the icon where the popup window will open
+	//     });
+	//
+	//     // add the marker to the map
+	//     L.marker([data.long, data.lat], {
+	//         icon: customicon
+	//       })
+	//       .addTo(map).bindPopup("<strong style='color: #84b819'>" + data.newsroom + "</strong><br>" + data.company + " | " + data.city + "<br>Head: " + data.head)
+	//
+	//     // close the loop, the function processData(allText) and myFunction()
+	//   }
+	// }
 
-  map.on('click', onMapClick);
+	// // add a layer group, yet empty
+	// var markersLayer = new L.LayerGroup();
+	// map.addLayer(markersLayer);
 
-  // load json-file
-  $(document).ready(function() {
-    $.ajax({
-      type: "GET",
-      url: "bus100.json",
-      dataType: "json",
-      mimeType: "application/json",
-      success: function(data) {
-        processData(data);
-      }
-    });
-  });
+	// add the search bar to the map
+	// map.addControl(new L.Control.Search({
+	// 	url: 'http://nominatim.openstreetmap.org/search?format=json&q={s}',
+	// 	jsonpParam: 'json_callback',
+	// 	propertyName: 'display_name',
+	// 	propertyLoc: ['lat', 'lon'],
+	// 	marker: L.marker([0, 0]),
+	// 	// marker: L.circleMarker([0, 0], {
+	// 	// 	radius: 30
+	// 	// }),
+	// 	autoCollapse: true,
+	// 	autoType: false,
+	// 	minLength: 3
+	// })).bindPopup("<b>Hello world!</b><br />I am a popup.").openPopup();
+	//
+	// addGoogleSearch(map);
 
+	addPoiLayers(map);
+}
 
-  // add a layer group, yet empty
-  var markersLayer = new L.LayerGroup();
-  map.addLayer(markersLayer);
+function addPoiLayers(map) {
 
-  // add the search bar to the map
-  var controlSearch = new L.Control.Search({
-    position: 'topleft', // where do you want the search bar?
-    layer: markersLayer, // name of the layer
-    initial: false,
-    zoom: 11, // set zoom to found location when searched
-    marker: false,
-    textPlaceholder: 'Search...' // placeholder while nothing is searched
-  });
+	// query part for: “bar”
+	var bars = new L.OverPassLayer({
+		minzoom: 17,
+		query: "node(BBOX)[amenity=bar];out;",
+		callback: function(data) {
+			for (i = 0; i < data.elements.length; i++) {
+				e = data.elements[i];
 
-  map.addControl(controlSearch); // add it to the map
+				if (e.id in this.instance._ids) return;
+				this.instance._ids[e.id] = true;
+				var pos = new L.LatLng(e.lat, e.lon);
+				var popup = this.instance._poiInfo(e.tags, e.id);
+				var color = e.tags.collection_times ? 'green' : 'red';
+				var circle = L.circle(pos, 50, {
+						color: color,
+						fillColor: '#fa3',
+						fillOpacity: 0.5
+					})
+					.bindPopup(popup);
+				this.instance.addLayer(circle);
+			}
+		},
+	});
 
-  // add var "code"
-  var code = '1ciPq3VfxUv3ucttkMPzNXNR1NLKA1JrOq1tGiLg2CsI'
+	// query part for: “pub”
+	var pubs = new L.OverPassLayer({
+		minzoom: 17,
+		query: "node(BBOX)[amenity=pub];out;",
+		callback: function(data) {
+			for (i = 0; i < data.elements.length; i++) {
+				e = data.elements[i];
 
-  // loop through spreadsheet with Tabletop
-  Tabletop.init({
-    key: code,
-    callback: function(sheet, tabletop) {
-
-      for (var i in sheet) {
-        var data = sheet[i];
-
-        var icon = L.icon({
-          iconUrl: data.icon,
-          iconSize: [52, 60], // size of the icon
-          iconAnchor: [26, 60], // point of the icon which will correspond to marker's location
-          popupAnchor: [0, -60]
-        });
-        if (data.iconori === "left") {
-          icon = L.icon({
-            iconUrl: data.icon,
-            iconSize: [60, 52],
-            iconAnchor: [60, 26],
-            popupAnchor: [-35, -26]
-          });
-        };
-        if (data.iconori === "right") {
-          icon = L.icon({
-            iconUrl: data.icon,
-            iconSize: [60, 52],
-            iconAnchor: [0, 26],
-            popupAnchor: [35, -26]
-          })
-        };
-
-        // delete or exclude the marker adding part
-        // L.marker([data.longitude, data.latitude], {icon: icon})
-        //  .addTo(map)
-        //  .bindPopup("<strong style="color: #84b819;">" + data.newsroom + "</strong>" + data.company + " | " + data.city + "Head: " + data.head).openPopup();
-
-      }
-    },
-    simpleSheet: true
-  })
+				if (e.id in this.instance._ids) return;
+				this.instance._ids[e.id] = true;
+				var pos = new L.LatLng(e.lat, e.lon);
+				var popup = this.instance._poiInfo(e.tags, e.id);
+				var color = e.tags.collection_times ? 'green' : 'red';
+				var circle = L.circle(pos, 50, {
+						color: color,
+						fillColor: '#fa3',
+						fillOpacity: 0.5
+					})
+					.bindPopup(popup);
+				this.instance.addLayer(circle);
+			}
+		},
+	});
 
 
+	// query part for: “restaurant”
+	var restaurant = new L.OverPassLayer({
+		minzoom: 17,
+		query: "node(BBOX)[amenity=restaurant];out;",
+		callback: function(data) {
+			for (i = 0; i < data.elements.length; i++) {
+				e = data.elements[i];
+
+				if (e.id in this.instance._ids) return;
+				this.instance._ids[e.id] = true;
+				var pos = new L.LatLng(e.lat, e.lon);
+				var popup = this.instance._poiInfo(e.tags, e.id);
+				var color = e.tags.collection_times ? 'green' : 'red';
+				var circle = L.circle(pos, 50, {
+						color: color,
+						fillColor: '#fa3',
+						fillOpacity: 0.5
+					})
+					.bindPopup(popup);
+				this.instance.addLayer(circle);
+			}
+		},
+	});
 
 
+	var baseMaps = {
+		"Mapnic": osm,
+	};
 
+	var overlayMaps = {
+		"Bars": bars,
+		"Pubs": pubs,
+		"Restaurants": restaurant
+	};
+	map.addLayer(bars);
 
+	L.control.layers(baseMaps, overlayMaps).addTo(map);
+}
 
+function addGoogleSearch(map) {
+	var geocoder = new google.maps.Geocoder();
 
+	function googleGeocoding(text, callResponse) {
+		geocoder.geocode({
+			address: text
+		}, callResponse);
+	}
 
-  // function processData(allText) {
-  //
-  //   for (var i in allText) {
-  //     data = allText[i];
-  //     var customicon = L.icon({
-  //       // the iconUrl is now the ith element in data.icon
-  //       iconUrl: data.icon,
-  //       iconSize: [52, 60], // size of the icon
-  //       iconAnchor: [26, 60], // point of the icon which will correspond to marker's location
-  //       popupAnchor: [0, -60] // point of the icon where the popup window will open
-  //     });
-  //
-  //     // add the marker to the map
-  //     L.marker([data.long, data.lat], {
-  //         icon: customicon
-  //       })
-  //       .addTo(map).bindPopup("<strong style='color: #84b819'>" + data.newsroom + "</strong><br>" + data.company + " | " + data.city + "<br>Head: " + data.head)
-  //
-  //     // close the loop, the function processData(allText) and myFunction()
-  //   }
-  // }
+	function formatJSON(rawjson) {
+		var json = {},
+			key, loc, disp = [];
+
+		for (var i in rawjson) {
+			key = rawjson[i].formatted_address;
+
+			loc = L.latLng(rawjson[i].geometry.location.lat(), rawjson[i].geometry.location.lng());
+
+			json[key] = loc; //key,value format
+		}
+
+		return json;
+	}
+
+	map.addControl(new L.Control.Search({
+		sourceData: googleGeocoding,
+		formatData: formatJSON,
+		markerLocation: true,
+		zoom: 16,
+		autoType: false,
+		autoCollapse: true,
+		minLength: 3
+	}));
 }
