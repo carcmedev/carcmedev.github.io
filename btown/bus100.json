@@ -1,65 +1,74 @@
-[
- {
-   "long": 53.545762,
-   "lat": 10.004017,
-   "newsroom": "Datenlese",
-   "company": "Spiegel Online",
-   "city": "Hamburg",
-   "head": "Christina Elmer",
-   "icon": "icons/RPData.png"
- },
- {
-   "long": 48.144395,
-   "lat": 11.553605,
-   "newsroom": "BR Data",
-   "company": "Bayrischer Rundfunk",
-   "city": "München",
-   "head": "Uli Köppen",
-   "icon": "icons/RPData.png"
- },
- {
-   "long": 47.417563,
-   "lat": 8.560453,
-   "newsroom": "SRF Data",
-   "company": "Schweizer Rundfunk und Fernsehen",
-   "city": "Zürich",
-   "head": "Sandra Manca",
-   "icon": "icons/RPData.png"
- },
- {
-   "long": 47.364939,
-   "lat": 8.547561,
-   "newsroom": "NZZ Storytelling",
-   "company": "Neue Zürcher Zeitung",
-   "city": "Zürich",
-   "head": "David Bauer",
-   "icon": "icons/RPData.png"
- },
- {
-   "long": 52.518712,
-   "lat": 13.39018,
-   "newsroom": "Team Investigativ/Daten",
-   "company": "Zeit Online",
-   "city": "Berlin",
-   "head": "Sascha Venohr",
-   "icon": "icons/RPData.png"
- },
- {
-   "long": 52.50762,
-   "lat": 13.39804,
-   "newsroom": "Interaktiv-Team",
-   "company": "Berliner Morgenpost",
-   "city": "Berlin",
-   "head": "Julius Tröger",
-   "icon": "icons/RPData.png"
- },
- {
-   "long": 51.233059,
-   "lat": 6.698716,
-   "newsroom": "RP Data",
-   "company": "Rheinische Post",
-   "city": "Düsseldorf",
-   "head": "Phil Ninh",
-   "icon": "icons/RPData.png"
- }
-]
+
+var bus100lData = [{
+	"stopName": "1 Zoologischer Garten",
+	"lat": 52.507294,
+	"long": 13.332367
+}, {
+	"stopName": "2 Breitscheidplatz",
+	"lat": 52.505016,
+	"long": 13.335304
+}, {
+	"stopName": "3 Kaiser Wilhelm Memory Church",
+	"lat": 52.504803,
+	"long": 13.335042
+}, {
+	"stopName": "4 Bayreuther Straße / Schillstraße",
+	"lat": 52.503885,
+	"long": 13.345934
+}, {
+	"stopName": "5 Lützowplatz",
+	"lat": 52.504568,
+	"long": 13.352447
+}, {
+	"stopName": "6 Nordische Botschaften",
+	"lat": 52.508563,
+	"long": 13.350368
+}, {
+	"stopName": "7 Victory Column / Siegessaule",
+	"lat": 52.51454,
+	"long": 13.35011
+}, {
+	"stopName": "8 Schloss Bellevue",
+	"lat": 52.51757,
+	"long": 13.35279
+}, {
+	"stopName": "9 Haus der Kulturen der Welt",
+	"lat": 52.5189,
+	"long": 13.36491
+}, {
+	"stopName": "10 Platz der Republik",
+	"lat": 52.51861,
+	"long": 13.37265
+}, {
+	"stopName": "11 Reichstag",
+	"lat": 52.51862,
+	"long": 13.37618
+}, {
+	"stopName": "12 Brandenburg Tor",
+	"lat": 52.516418,
+	"long": 13.377693
+}, {
+	"stopName": "13 Unter den Linden",
+	"lat": 52.516998,
+	"long": 13.389548
+}, {
+	"stopName": "14 Berlin State Opera",
+	"lat": 52.517089,
+	"long": 13.394655
+}, {
+	"stopName": "15 Lustgarten",
+	"lat": 52.518859,
+	"long": 13.399224
+}, {
+	"stopName": "16 Marienkirche",
+	"lat": 52.520761,
+	"long": 13.40709
+}, {
+	"stopName": "17 Alexanderplatz",
+	"lat": 52.522062,
+	"long": 13.413268
+}, {
+	"stopName": "18 Fernsehturm",
+	"lat": 52.520815,
+	"long": 13.409398
+}]
